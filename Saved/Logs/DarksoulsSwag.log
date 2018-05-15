@@ -222,6 +222,7 @@ LogInit: Installed Engine Build: 1
 LogStreaming: Display: Took  0.001s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
+<<<<<<< HEAD
 [2018.05.15-02.12.28:415][  0]LogInit: Selected Device Profile: [Windows]
 [2018.05.15-02.12.28:415][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
 [2018.05.15-02.12.28:421][  0]LogInit: Computer: DESKTOP-VO9UFFC
@@ -1338,3 +1339,1090 @@ LogInit: Object subsystem initialized
 [2018.05.15-02.31.57:630][521]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2018.05.15-02.31.57:638][521]LogExit: Exiting.
 [2018.05.15-02.31.57:647][521]Log file closed, 05/14/18 19:31:57
+=======
+[2018.05.15-01.12.13:784][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.15-01.12.13:784][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.15-01.12.13:794][  0]LogInit: Computer: THEBEAST
+[2018.05.15-01.12.13:794][  0]LogInit: User: Spencir
+[2018.05.15-01.12.13:794][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.15-01.12.13:794][  0]LogInit: High frequency timer resolution =3.914058 MHz
+[2018.05.15-01.12.13:794][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.05.15-01.12.13:794][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.15-01.12.13:794][  0]LogMemory: Process Physical Memory: 280.37 MB used, 280.37 MB peak
+[2018.05.15-01.12.13:794][  0]LogMemory: Process Virtual Memory: 269.85 MB used, 269.85 MB peak
+[2018.05.15-01.12.13:794][  0]LogMemory: Physical Memory: 7667.60 MB used,  8676.04 MB free, 16343.64 MB total
+[2018.05.15-01.12.13:794][  0]LogMemory: Virtual Memory: 746.52 MB used,  8676.04 MB free, 134217728.00 MB total
+[2018.05.15-01.12.13:808][  0]LogInit: Using OS detected language (en-US).
+[2018.05.15-01.12.13:808][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.15-01.12.13:811][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.15-01.12.14:154][  0]LogStreaming: Display: Took  0.346s to EndInitTextLocalization.
+[2018.05.15-01.12.14:154][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.15-01.12.14:182][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.15-01.12.14:182][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.15-01.12.14:406][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.15-01.12.14:445][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.05.15-01.12.14:445][  0]LogD3D11RHI:       8096/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.15-01.12.14:447][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.15-01.12.14:447][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.15-01.12.14:447][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.15-01.12.14:453][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.15-01.12.14:453][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.15-01.12.14:453][  0]LogWindows: EnumDisplayDevices:
+[2018.05.15-01.12.14:453][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.05.15-01.12.14:454][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.05.15-01.12.14:454][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.05.15-01.12.14:454][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.05.15-01.12.14:454][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.15-01.12.14:454][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.05.15-01.12.14:454][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.15-01.12.14:454][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.15-01.12.14:454][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2018.05.15-01.12.14:477][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.05.15-01.12.14:477][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.15-01.12.14:477][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.15-01.12.14:576][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.05.15-01.12.14:618][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Intermediate/Shaders/WorkingDirectory/15712/).
+[2018.05.15-01.12.14:618][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Spencir/AppData/Local/Temp/UnrealShaderWorkingDir/F95B296247288B0EAF08E9ABA8C36219/'.
+[2018.05.15-01.12.14:790][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.15-01.12.14:800][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.15-01.12.14:812][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.15-01.12.14:823][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.15-01.12.14:834][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.15-01.12.14:845][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.15-01.12.14:856][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.15-01.12.14:867][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.15-01.12.14:872][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.15-01.12.14:882][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.15-01.12.14:892][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.15-01.12.14:902][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.15-01.12.14:912][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.15-01.12.14:922][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.15-01.12.14:931][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.15-01.12.14:951][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.15-01.12.14:951][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.15-01.12.14:960][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.15-01.12.14:961][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.15-01.12.14:995][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.15-01.12.15:005][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.15-01.12.15:015][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.15-01.12.15:025][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.15-01.12.15:035][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.15-01.12.15:045][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.15-01.12.15:045][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.15-01.12.15:139][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.15-01.12.15:139][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.15-01.12.15:139][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.15-01.12.15:673][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.15-01.12.15:728][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/Spencir/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.15-01.12.15:729][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Spencir/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.15-01.12.15:729][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.15-01.12.15:729][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.15-01.12.15:729][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.15-01.12.15:729][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.15-01.12.15:741][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.15-01.12.15:753][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Spencir/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.15-01.12.15:753][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.05.15-01.12.15:753][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.05.15-01.12.15:762][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.15-01.12.15:763][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.15-01.12.15:764][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.15-01.12.15:764][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.15-01.12.15:879][  0]LogAssetRegistry: FAssetRegistry took 0.0249 seconds to start up
+[2018.05.15-01.12.16:173][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.15-01.12.16:335][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.15-01.12.16:337][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.15-01.12.16:337][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.15-01.12.16:337][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.15-01.12.16:337][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.15-01.12.16:337][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.15-01.12.16:365][  0]LogNetVersion: DarksoulsSwag , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 397616358)
+[2018.05.15-01.12.16:759][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.065329 seconds
+[2018.05.15-01.12.16:764][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.15-01.12.16:764][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.05.15-01.12.16:764][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.15-01.12.18:271][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.15-01.12.18:300][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.15-01.12.18:627][  0]SourceControl: Source control is disabled
+[2018.05.15-01.12.18:627][  0]SourceControl: Source control is disabled
+[2018.05.15-01.12.18:643][  0]SourceControl: Source control is disabled
+[2018.05.15-01.12.18:661][  0]SourceControl: Source control is disabled
+[2018.05.15-01.12.19:117][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.15-01.12.19:267][  0]LogOcInput: OculusInput pre-init called
+[2018.05.15-01.12.19:364][  0]LogEngine: Initializing Engine...
+[2018.05.15-01.12.19:384][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.05.15-01.12.19:385][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.15-01.12.19:385][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.15-01.12.19:576][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.15-01.12.19:634][  0]LogInit: XAudio2 using 'Headphones (Plantronics GameCom 780/788)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.05.15-01.12.19:644][  0]LogInit: FAudioDevice initialized.
+[2018.05.15-01.12.19:691][  0]LogDerivedDataCache: Saved boot cache 0.05s 74MB C:/Users/Spencir/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.15-01.12.19:705][  0]LogInit: Texture streaming: Enabled
+[2018.05.15-01.12.19:717][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.15-01.12.19:731][  0]LogInit: Transaction tracking system initialized
+[2018.05.15-01.12.19:749][  0]BlueprintLog: New page: Editor Load
+[2018.05.15-01.12.19:807][  0]LocalizationService: Localization service is disabled
+[2018.05.15-01.12.19:895][  0]LogConsoleResponse: Display: 
+[2018.05.15-01.12.20:022][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.15-01.12.20:022][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.15-01.12.20:022][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.15-01.12.20:022][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.15-01.12.20:022][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.15-01.12.20:180][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/' took 0.01s
+[2018.05.15-01.12.20:365][  0]SourceControl: Source control is disabled
+[2018.05.15-01.12.20:365][  0]Cmd: MAP LOAD FILE="C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.15-01.12.20:365][  0]LightingResults: New page: Lighting Build
+[2018.05.15-01.12.20:367][  0]MapCheck: New page: Map Check
+[2018.05.15-01.12.20:367][  0]LightingResults: New page: Lighting Build
+[2018.05.15-01.12.20:389][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000153e51d14e0, Size=160, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.15-01.12.20:394][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000153e51d14e0, Size=160
+[2018.05.15-01.12.20:394][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000153e5355120, Size=160, Default__thirdperson_C Function /Engine/Transient.REINST_thirdperson_C_1:ExecuteUbergraph_thirdperson
+[2018.05.15-01.12.20:398][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000153c9462fc0, Size=160, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.15-01.12.20:491][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000153c82e3c68, Size=40, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.12.20:492][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000153c82e3c68, Size=40
+[2018.05.15-01.12.20:492][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000153c82e3c68, Size=40, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_10:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.12.20:492][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000153c82e3cb8, Size=40, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.12.20:601][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [2.391124ms] /Game/ThirdPersonBP/knight_d_pelegrini.knight_d_pelegrini
+[2018.05.15-01.12.20:608][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.15-01.12.20:644][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.15-01.12.20:655][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000153e5355120, Size=160
+[2018.05.15-01.12.20:655][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000153c82e3c68, Size=40
+[2018.05.15-01.12.20:655][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.15-01.12.20:702][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 45.812ms to complete.
+[2018.05.15-01.12.20:702][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.337
+[2018.05.15-01.12.20:824][  0]LogCollectionManager: Loaded 0 collections in 0.001211 seconds
+[2018.05.15-01.12.20:863][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/Collections/' took 0.01s
+[2018.05.15-01.12.20:863][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/Developers/Spencir/Collections/' took 0.01s
+[2018.05.15-01.12.20:863][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/Collections/' took 0.01s
+[2018.05.15-01.12.20:863][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.15-01.12.20:871][  0]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 2452 classes and 558 folders.
+[2018.05.15-01.12.20:877][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.15-01.12.20:925][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.15-01.12.20:929][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.05.15-01.12.20:943][  0]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.15-01.12.20:946][  0]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.15-01.12.20:952][  0]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.15-01.12.21:040][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.05.15-01.12.21:192][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.15-01.12.21:192][  0]LogLoad: (Engine Initialization) Total time: 10.18 seconds
+[2018.05.15-01.12.21:192][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.15-01.12.21:202][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.15-01.12.21:217][  0]LogAssetRegistry: Asset discovery search completed in 5.3603 seconds
+[2018.05.15-01.12.21:219][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.15-01.12.21:219][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000036 seconds (updated 0 objects)
+[2018.05.15-01.12.21:221][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.15-01.12.21:256][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.15-01.12.23:853][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-01.12.23:926][304]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.15-01.12.24:007][304]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000153c82e3cb8, Size=40
+[2018.05.15-01.12.24:007][304]LogUObjectGlobals: Created PersistentFrame Addr=0x000001538a480e78, Size=40, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_14:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.12.24:008][304]LogUObjectGlobals: Created PersistentFrame Addr=0x000001538a480dd8, Size=40, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.12.24:088][304]LogSavePackage: Save=89.64ms
+[2018.05.15-01.12.24:088][304]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonExampleMap2B915B914118490EA65037AB73E11F3E.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.05.15-01.12.24:091][304]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.05.15-01.12.24:290][304]LogSavePackage: Save=161.21ms
+[2018.05.15-01.12.24:290][304]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonExampleMap_BuiltData61751A9945B24064FB4455B162E12E1D.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.05.15-01.12.24:292][304]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.05.15-01.12.26:071][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-01.12.27:930][718]LogUObjectGlobals: Created PersistentFrame Addr=0x00000153c7e0c720, Size=160, Default__thirdpersongittest_C Function /Game/blueprints/thirdpersongittest.thirdpersongittest_C:ExecuteUbergraph_thirdpersongittest
+[2018.05.15-01.12.27:934][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000153c7e0c720, Size=160
+[2018.05.15-01.12.27:934][718]LogUObjectGlobals: Created PersistentFrame Addr=0x00000153d25df740, Size=160, Default__thirdpersongittest_C Function /Engine/Transient.REINST_thirdpersongittest_C_16:ExecuteUbergraph_thirdpersongittest
+[2018.05.15-01.12.27:937][718]LogUObjectGlobals: Created PersistentFrame Addr=0x00000153d25de520, Size=160, Default__thirdpersongittest_C Function /Game/blueprints/thirdpersongittest.thirdpersongittest_C:ExecuteUbergraph_thirdpersongittest
+[2018.05.15-01.12.27:954][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000153d25df740, Size=160
+[2018.05.15-01.12.27:954][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001538a480e78, Size=40
+[2018.05.15-01.12.29:370][718]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.15-01.12.29:480][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000153d25de520, Size=160
+[2018.05.15-01.12.32:425][ 68]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.15-01.12.32:535][ 68]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-01.12.32:575][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.15-01.12.32:790][ 68]PIE: New page: PIE session: ThirdPersonExampleMap (May 14, 2018, 11:12:32 AM)
+[2018.05.15-01.12.32:812][ 68]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.15-01.12.32:857][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044800s)
+[2018.05.15-01.12.32:858][ 68]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.15-01.12.32:858][ 68]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2018.05.15-01.12.32:858][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.045710s)
+[2018.05.15-01.12.32:886][ 68]LogInit: XAudio2 using 'Headphones (Plantronics GameCom 780/788)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.05.15-01.12.32:891][ 68]LogInit: FAudioDevice initialized.
+[2018.05.15-01.12.33:054][ 68]LogUObjectGlobals: Created PersistentFrame Addr=0x00000153e8d846d0, Size=8, Default__ABP_Character_C Function /Game/blueprints/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character
+[2018.05.15-01.12.33:136][ 68]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000153e8d846d0, Size=8
+[2018.05.15-01.12.33:136][ 68]LogUObjectGlobals: Created PersistentFrame Addr=0x00000153e8d846d0, Size=8, Default__ABP_Character_C Function /Engine/Transient.REINST_ABP_Character_C_0:ExecuteUbergraph_ABP_Character
+[2018.05.15-01.12.33:191][ 68]LogUObjectGlobals: Created PersistentFrame Addr=0x00000153e8d85408, Size=8, Default__ABP_Character_C Function /Game/blueprints/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character
+[2018.05.15-01.12.33:213][ 68]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015385dddf80, Size=568, Default__ThirdPersonCharacter_C Function /Game/blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-01.12.33:235][ 68]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015385dddf80, Size=568
+[2018.05.15-01.12.33:235][ 68]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015385dddf80, Size=568, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_19:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-01.12.33:261][ 68]LogUObjectGlobals: Created PersistentFrame Addr=0x000001538c3bee80, Size=568, Default__ThirdPersonCharacter_C Function /Game/blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-01.12.33:380][ 68]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.15-01.12.33:630][ 68]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.14-18.12.33
+[2018.05.15-01.12.33:816][ 68]LogWorld: Bringing up level for play took: 0.201230
+[2018.05.15-01.12.33:969][ 68]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.05.15-01.12.34:082][ 68]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.047
+[2018.05.15-01.12.34:083][ 68]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-01.12.34:538][ 69]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062872 > MaxSimulationTimeStep (0.050) for 'thirdperson_2', movement 'Walking'
+[2018.05.15-01.12.36:365][264]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-01.12.38:960][559]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-01.12.39:694][647]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-01.12.41:301][840]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-01.12.41:743][893]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-01.12.46:169][424]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-01.12.47:319][562]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-01.12.50:345][925]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-01.12.50:929][995]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-01.12.52:697][207]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-01.12.53:429][295]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-01.12.56:829][703]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-01.12.57:196][747]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-01.12.59:371][  8]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-01.13.00:171][104]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-01.13.02:463][379]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-01.13.03:305][480]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-01.13.07:822][ 22]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-01.13.08:281][ 77]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-01.13.11:147][421]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-01.13.11:930][515]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-01.13.15:456][938]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-01.13.16:622][ 78]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-01.13.19:223][390]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-01.13.23:257][872]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-01.13.26:682][283]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-01.13.26:983][319]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-01.13.33:534][104]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015385dddf80, Size=568
+[2018.05.15-01.13.33:534][104]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000153e8d846d0, Size=8
+[2018.05.15-01.13.40:941][993]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-01.13.41:591][ 71]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-01.13.42:900][228]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-01.13.43:903][343]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-01.13.44:079][343]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-01.13.47:484][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-01.13.57:070][763]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001538a480dd8, Size=40
+[2018.05.15-01.13.57:070][763]LogUObjectGlobals: Created PersistentFrame Addr=0x000001538c408ea0, Size=40, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_25:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.13.57:071][763]LogUObjectGlobals: Created PersistentFrame Addr=0x000001538c408ba8, Size=40, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.13.57:146][763]LogSavePackage: Save=77.24ms
+[2018.05.15-01.13.57:146][763]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonExampleMapDC80A3194FC52AC69CB39CB3B307A056.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.05.15-01.13.57:149][763]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.05.15-01.13.57:293][763]LogSavePackage: Save=112.78ms
+[2018.05.15-01.13.57:293][763]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonExampleMap_BuiltDataE84217314D252C2C5463509F857C7904.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.05.15-01.13.57:294][763]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonExampleMap_BuiltDataE84217314D252C2C5463509F857C7904.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset', retrying in .5s...
+[2018.05.15-01.13.57:795][763]LogFileManager: Warning: MoveFile recovered during retry!
+[2018.05.15-01.13.57:830][763]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.05.15-01.19.37:512][681]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.05.15-01.19.38:047][681]LogUObjectGlobals: Created PersistentFrame Addr=0x00000153dd3160e8, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.15-01.19.38:048][681]LogUObjectGlobals: Created PersistentFrame Addr=0x00000153dd3160e0, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.15-01.19.39:785][681]LogSlate: Took 0.038522 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.15-01.19.50:052][455]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_75' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:173][455]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_77' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:175][455]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_79' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:191][456]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_81' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:193][456]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_83' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:205][457]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_85' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:207][457]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_87' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:207][457]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_89' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:210][457]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_91' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:222][458]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_93' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:223][458]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_95' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:224][458]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_97' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:237][459]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_99' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:239][459]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_101' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:251][460]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_103' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:253][460]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_105' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:265][461]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_107' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:267][461]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_109' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:269][461]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_111' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:281][462]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_113' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:284][462]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_115' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:295][463]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_117' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:298][463]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_119' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:311][464]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_121' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:313][464]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_123' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:325][465]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_125' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:327][465]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_127' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:340][466]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_129' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:352][467]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_131' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:355][467]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_133' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:367][468]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_135' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:369][468]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_137' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:382][469]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_139' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:395][470]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_141' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:408][471]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_143' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:422][472]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_145' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:435][473]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_147' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:448][474]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_149' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:461][475]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_151' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:476][476]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_153' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:488][477]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_155' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:491][477]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_157' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:503][478]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_159' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:515][479]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_161' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:518][479]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_163' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:530][480]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_165' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:543][481]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_167' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:557][482]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_169' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:570][483]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_171' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:583][484]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_173' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:595][485]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_175' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:597][485]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_177' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:610][486]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_179' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:612][486]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_181' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:625][487]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_183' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:627][487]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_185' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:640][488]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_187' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:652][489]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_189' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:653][489]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_191' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:655][489]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_193' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:667][490]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_195' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:669][490]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_197' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:682][491]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_199' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:696][492]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_201' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:709][493]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_203' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:723][494]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_205' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:736][495]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_207' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:749][496]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_209' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:762][497]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_211' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:775][498]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_213' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:788][499]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_215' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:801][500]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_217' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:814][501]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_219' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:828][502]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_221' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:841][503]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_223' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:855][504]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_225' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:868][505]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_227' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:881][506]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_229' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:894][507]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_231' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:907][508]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_233' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:920][509]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_235' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:931][510]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_237' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:933][510]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_239' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:946][511]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_241' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:948][511]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_243' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:961][512]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_245' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:963][512]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_247' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:976][513]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_249' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.50:989][514]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_251' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.51:003][515]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_253' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.51:016][516]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_255' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.51:029][517]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_257' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.51:043][518]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_259' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.51:057][519]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_261' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.51:070][520]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_263' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.51:083][521]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_265' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.51:096][522]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_267' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.51:109][523]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_269' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.51:122][524]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_271' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.19.51:135][525]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_273' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-01.20.50:458][114]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.15-01.21.08:984][484]BlueprintLog: New page: Compile StaminaBar
+[2018.05.15-01.21.09:165][484]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001538c408ea0, Size=40
+[2018.05.15-01.21.09:859][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/StaminaBar" FILE="C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/StaminaBar.uasset" SILENT=true
+[2018.05.15-01.21.09:877][528]LogSavePackage: Save=15.48ms
+[2018.05.15-01.21.09:877][528]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/StaminaBarC077B917484A26647B1289923D69A673.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/StaminaBar.uasset'
+[2018.05.15-01.21.09:879][528]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/StaminaBar.uasset
+[2018.05.15-01.21.20:862][401]LogSlate: Took 0.022202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.15-01.21.34:752][571]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.05.15-01.21.34:782][571]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001538c3bee80, Size=568
+[2018.05.15-01.21.34:782][571]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015419f40b80, Size=568, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_47:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-01.21.34:789][571]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015419f45d00, Size=568, Default__ThirdPersonCharacter_C Function /Game/blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-01.21.51:749][125]LogUObjectGlobals: Created PersistentFrame Addr=0x000001541c6910f8, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-01.22.20:839][890]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.05.15-01.22.20:854][890]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001541c6910f8, Size=4
+[2018.05.15-01.22.20:854][890]LogUObjectGlobals: Created PersistentFrame Addr=0x000001541ad5dd08, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_51:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-01.22.20:869][890]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015419f45d00, Size=568
+[2018.05.15-01.22.20:869][890]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015419f40e00, Size=568, ThirdPersonCharacter_C_27 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_53:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-01.22.20:877][890]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015419417d80, Size=576, Default__ThirdPersonCharacter_C Function /Game/blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-01.22.21:068][890]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001541ad5dd08, Size=4
+[2018.05.15-01.22.21:625][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/ThirdPersonCharacter" FILE="C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2018.05.15-01.22.21:969][931]LogSavePackage: Save=335.00ms
+[2018.05.15-01.22.21:969][931]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonCharacterCCADAAE447EB32F4CA88CDB44C3EB142.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset'
+[2018.05.15-01.22.21:973][931]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset
+[2018.05.15-01.22.30:152][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/ThirdPersonCharacter" FILE="C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2018.05.15-01.22.30:207][682]LogSavePackage: Save=49.58ms
+[2018.05.15-01.22.30:207][682]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonCharacter3897E4D04F8626BFF68722BC6B316092.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset'
+[2018.05.15-01.22.30:210][682]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset
+[2018.05.15-01.22.30:853][743]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.05.15-01.22.30:882][743]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015419417d80, Size=576
+[2018.05.15-01.22.30:882][743]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015419f46200, Size=576, ThirdPersonCharacter_C_45 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_57:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-01.22.30:889][743]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015419b86980, Size=576, Default__ThirdPersonCharacter_C Function /Game/blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-01.22.31:082][743]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015419f40e00, Size=568
+[2018.05.15-01.22.32:932][927]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015419f46200, Size=576
+[2018.05.15-01.22.32:945][927]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001538c408ba8, Size=40
+[2018.05.15-01.22.32:945][927]LogUObjectGlobals: Created PersistentFrame Addr=0x000001541baaf308, Size=40, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_61:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.22.32:946][927]LogUObjectGlobals: Created PersistentFrame Addr=0x000001541baaf178, Size=40, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.22.33:048][927]LogSavePackage: Save=104.87ms
+[2018.05.15-01.22.33:048][927]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonExampleMap45DE61C44F6E2FF7233C5B9E52EDEC7A.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.05.15-01.22.33:051][927]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.05.15-01.22.33:202][927]LogSavePackage: Save=112.00ms
+[2018.05.15-01.22.33:202][927]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonExampleMap_BuiltDataA40EA7CB40E8BC2B38F414B0F964A9FC.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.05.15-01.22.33:203][927]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.05.15-01.22.35:100][150]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001541baaf308, Size=40
+[2018.05.15-01.41.51:684][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-01.44.33:283][676]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001541baaf178, Size=40
+[2018.05.15-01.44.33:283][676]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015424659c38, Size=40, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_65:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.44.33:284][676]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015424659d78, Size=40, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.44.33:397][676]LogSavePackage: Save=115.86ms
+[2018.05.15-01.44.33:397][676]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonExampleMap_Auto16DB24E6E4A1B48424FE810BB0B59A8C1.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.05.15-01.44.33:400][676]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.05.15-01.44.33:402][676]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.478
+[2018.05.15-01.44.33:402][676]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.478
+[2018.05.15-01.47.40:273][973]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015423eab418, Size=4, Default__SKEL_ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.SKEL_ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.47.42:095][150]LogSlate: Took 0.069504 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.05.15-01.47.44:502][399]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015423eab418, Size=4
+[2018.05.15-01.47.44:503][399]LogUObjectGlobals: Created PersistentFrame Addr=0x00000154245f5550, Size=4, Default__SKEL_ThirdPersonExampleMap_C Function /Engine/Transient.REINST_SKEL_ThirdPersonExampleMap_C_69:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.47.44:503][399]LogUObjectGlobals: Created PersistentFrame Addr=0x00000154245f7c10, Size=4, Default__SKEL_ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.SKEL_ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.48.04:001][253]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000154245f7c10, Size=4
+[2018.05.15-01.48.04:001][253]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015424108e38, Size=4, Default__SKEL_ThirdPersonExampleMap_C Function /Engine/Transient.REINST_SKEL_ThirdPersonExampleMap_C_71:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.48.04:002][253]LogUObjectGlobals: Created PersistentFrame Addr=0x000001542410b938, Size=4, Default__SKEL_ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.SKEL_ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.49.08:733][ 92]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.05.15-01.49.08:737][ 92]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001542410b938, Size=4
+[2018.05.15-01.49.08:737][ 92]LogUObjectGlobals: Created PersistentFrame Addr=0x00000154221946b0, Size=4, Default__SKEL_ThirdPersonExampleMap_C Function /Engine/Transient.REINST_SKEL_ThirdPersonExampleMap_C_73:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.49.08:739][ 92]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015422194218, Size=4, Default__SKEL_ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.SKEL_ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.49.11:191][312]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.05.15-01.49.11:194][312]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.05.15-01.50.28:823][766]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015422194218, Size=4
+[2018.05.15-01.50.28:823][766]LogUObjectGlobals: Created PersistentFrame Addr=0x000001542410a020, Size=4, Default__SKEL_ThirdPersonExampleMap_C Function /Engine/Transient.REINST_SKEL_ThirdPersonExampleMap_C_75:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.50.28:824][766]LogUObjectGlobals: Created PersistentFrame Addr=0x000001542410b770, Size=4, Default__SKEL_ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.SKEL_ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.50.35:674][516]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001542410b770, Size=4
+[2018.05.15-01.50.35:674][516]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015423eabcd8, Size=4, Default__SKEL_ThirdPersonExampleMap_C Function /Engine/Transient.REINST_SKEL_ThirdPersonExampleMap_C_77:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.50.35:675][516]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015423eab778, Size=4, Default__SKEL_ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.SKEL_ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.50.40:937][ 92]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015423eab778, Size=4
+[2018.05.15-01.50.40:938][ 92]LogUObjectGlobals: Created PersistentFrame Addr=0x00000154253b2d30, Size=4, Default__SKEL_ThirdPersonExampleMap_C Function /Engine/Transient.REINST_SKEL_ThirdPersonExampleMap_C_79:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.50.40:939][ 92]LogUObjectGlobals: Created PersistentFrame Addr=0x00000154253b36e8, Size=4, Default__SKEL_ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.SKEL_ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.54.26:522][ 91]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000154253b36e8, Size=4
+[2018.05.15-01.54.26:522][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x00000154326a13d0, Size=4, Default__SKEL_ThirdPersonExampleMap_C Function /Engine/Transient.REINST_SKEL_ThirdPersonExampleMap_C_81:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.54.26:523][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x00000154326a15a0, Size=4, Default__SKEL_ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.SKEL_ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.54.36:681][230]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.05.15-01.54.36:684][230]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000154326a15a0, Size=4
+[2018.05.15-01.54.36:684][230]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015422194d98, Size=4, SKEL_ThirdPersonExampleMap_C_0 Function /Engine/Transient.REINST_SKEL_ThirdPersonExampleMap_C_83:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.54.36:686][230]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015424659d78, Size=40
+[2018.05.15-01.54.36:686][230]LogUObjectGlobals: Created PersistentFrame Addr=0x000001542535ca90, Size=40, ThirdPersonExampleMap_C_0 Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_85:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.54.36:965][230]LogUObjectGlobals: Created PersistentFrame Addr=0x000001542dbe8610, Size=48, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.54.37:057][230]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015423eabcd8, Size=4
+[2018.05.15-01.54.37:057][230]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015424108e38, Size=4
+[2018.05.15-01.54.37:057][230]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015422194d98, Size=4
+[2018.05.15-01.54.37:058][230]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000154326a13d0, Size=4
+[2018.05.15-01.54.37:058][230]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000154245f5550, Size=4
+[2018.05.15-01.54.37:058][230]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000154253b2d30, Size=4
+[2018.05.15-01.54.37:058][230]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001542410a020, Size=4
+[2018.05.15-01.54.37:058][230]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000154221946b0, Size=4
+[2018.05.15-01.54.37:058][230]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015424659c38, Size=40
+[2018.05.15-01.54.37:847][311]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001542535ca90, Size=40
+[2018.05.15-01.54.37:862][311]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001542dbe8610, Size=48
+[2018.05.15-01.54.37:862][311]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015423fe7520, Size=48, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_89:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.54.37:864][311]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015423fe7880, Size=48, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.54.37:975][311]LogSavePackage: Save=117.60ms
+[2018.05.15-01.54.37:976][311]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonExampleMap5C1E73084D7B343539EBC5BEDA433ACF.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.05.15-01.54.37:982][311]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.05.15-01.54.38:009][311]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.234
+[2018.05.15-01.54.38:697][379]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015423fe7520, Size=48
+[2018.05.15-01.54.38:705][379]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015423fe7880, Size=48
+[2018.05.15-01.54.38:705][379]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015433effca0, Size=48, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_93:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.54.38:707][379]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015433efe350, Size=48, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.54.38:814][379]LogSavePackage: Save=113.02ms
+[2018.05.15-01.54.38:814][379]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonExampleMap06A122E74E262370AE8F399179B68E74.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.05.15-01.54.38:818][379]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.05.15-01.54.38:845][379]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.217
+[2018.05.15-01.54.40:778][606]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.15-01.54.40:796][606]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-01.54.40:797][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.15-01.54.40:797][606]PIE: New page: PIE session: ThirdPersonExampleMap (May 14, 2018, 11:54:40 AM)
+[2018.05.15-01.54.40:797][606]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.15-01.54.40:809][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012105s)
+[2018.05.15-01.54.40:810][606]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.15-01.54.40:810][606]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2018.05.15-01.54.40:810][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013135s)
+[2018.05.15-01.54.40:831][606]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015433effca0, Size=48
+[2018.05.15-01.54.40:839][606]LogInit: XAudio2 using 'Headphones (Plantronics GameCom 780/788)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.05.15-01.54.40:845][606]LogInit: FAudioDevice initialized.
+[2018.05.15-01.54.40:878][606]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.15-01.54.40:880][606]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.14-18.54.40
+[2018.05.15-01.54.40:881][606]LogWorld: Bringing up level for play took: 0.001885
+[2018.05.15-01.54.40:883][606]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.153
+[2018.05.15-01.54.40:883][606]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-01.54.41:228][607]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062872 > MaxSimulationTimeStep (0.050) for 'thirdperson_2', movement 'Walking'
+[2018.05.15-01.54.42:276][732]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-01.54.42:935][811]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-01.54.43:682][900]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-01.54.46:660][240]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-01.54.47:031][280]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-01.54.47:363][280]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-01.54.51:555][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-01.55.12:572][215]BlueprintLog: New page: Compile StaminaBar
+[2018.05.15-01.55.49:159][694]BlueprintLog: New page: Compile StaminaBar
+[2018.05.15-01.55.52:483][976]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.15-01.55.52:506][976]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-01.55.52:507][976]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.15-01.55.52:507][976]PIE: New page: PIE session: ThirdPersonExampleMap (May 14, 2018, 11:55:52 AM)
+[2018.05.15-01.55.52:507][976]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.15-01.55.52:519][976]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011988s)
+[2018.05.15-01.55.52:519][976]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.15-01.55.52:520][976]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2018.05.15-01.55.52:520][976]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012842s)
+[2018.05.15-01.55.52:546][976]LogInit: XAudio2 using 'Headphones (Plantronics GameCom 780/788)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.05.15-01.55.52:552][976]LogInit: FAudioDevice initialized.
+[2018.05.15-01.55.52:580][976]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.15-01.55.52:582][976]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.14-18.55.52
+[2018.05.15-01.55.52:582][976]LogWorld: Bringing up level for play took: 0.001643
+[2018.05.15-01.55.52:584][976]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.451
+[2018.05.15-01.55.52:584][976]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-01.55.53:373][ 68]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-01.55.56:457][431]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-01.55.56:985][489]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-01.55.57:644][557]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-01.56.04:620][168]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-01.56.07:196][346]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-01.56.07:534][369]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-01.56.08:144][410]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-01.56.08:526][435]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-01.56.10:818][581]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-01.56.11:232][607]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-01.56.12:122][660]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-01.56.12:458][677]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-01.56.16:965][928]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-01.56.20:126][ 99]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-01.56.20:879][139]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-01.56.21:218][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-01.56.21:310][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-01.56.21:955][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-01.56.22:054][234]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015433efe350, Size=48
+[2018.05.15-01.56.22:054][234]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015424a96b90, Size=48, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_105:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.56.22:056][234]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015424a94c70, Size=48, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.56.22:166][234]LogSavePackage: Save=117.01ms
+[2018.05.15-01.56.22:166][234]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonExampleMapE40D4BB84C62469CE4AF23935C104CE1.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.05.15-01.56.22:169][234]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.05.15-01.56.22:322][234]LogSavePackage: Save=116.34ms
+[2018.05.15-01.56.22:322][234]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonExampleMap_BuiltData14FA4F894D0EF0C23117E38B0DD80B46.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.05.15-01.56.22:323][234]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.05.15-01.56.23:783][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015424a96b90, Size=48
+[2018.05.15-01.56.23:793][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/StaminaBar" FILE="C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/StaminaBar.uasset" SILENT=true
+[2018.05.15-01.56.23:809][405]LogSavePackage: Save=7.71ms
+[2018.05.15-01.56.23:809][405]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/StaminaBarDA7FB22E49A501A212F6AAB8BE666669.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/StaminaBar.uasset'
+[2018.05.15-01.56.23:812][405]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/StaminaBar.uasset
+[2018.05.15-01.57.52:934][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-01.57.53:053][600]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015424a94c70, Size=48
+[2018.05.15-01.57.53:053][600]LogUObjectGlobals: Created PersistentFrame Addr=0x000001541000e0b0, Size=48, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_109:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.57.53:054][600]LogUObjectGlobals: Created PersistentFrame Addr=0x000001541000ca00, Size=48, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-01.57.53:160][600]LogSavePackage: Save=112.57ms
+[2018.05.15-01.57.53:160][600]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonExampleMap18AB08B3468A892D0CAB1681922F7254.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.05.15-01.57.53:163][600]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.05.15-01.57.53:326][600]LogSavePackage: Save=121.14ms
+[2018.05.15-01.57.53:327][600]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonExampleMap_BuiltDataF055952740472614B59BFAADF6F157C8.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.05.15-01.57.53:328][600]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.05.15-01.57.55:188][815]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001541000e0b0, Size=48
+[2018.05.15-01.59.33:693][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/StaminaBar" FILE="C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/StaminaBar.uasset" SILENT=true
+[2018.05.15-01.59.33:706][545]LogSavePackage: Save=7.03ms
+[2018.05.15-01.59.33:706][545]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/StaminaBar9EF435E1445B61564098EEBD9896B582.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/StaminaBar.uasset'
+[2018.05.15-01.59.33:707][545]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/StaminaBar.uasset
+[2018.05.15-02.01.35:015][791]LogUObjectGlobals: Created PersistentFrame Addr=0x000001543125dbe8, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.01.37:669][ 35]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001543125dbe8, Size=4
+[2018.05.15-02.01.37:669][ 35]LogUObjectGlobals: Created PersistentFrame Addr=0x00000154308156e0, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_113:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.01.37:673][ 35]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015430815b80, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.01.42:445][513]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015430815b80, Size=4
+[2018.05.15-02.01.42:445][513]LogUObjectGlobals: Created PersistentFrame Addr=0x00000154245f7008, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_115:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.01.42:449][513]LogUObjectGlobals: Created PersistentFrame Addr=0x00000154245f40e0, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.01.47:045][932]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.05.15-02.01.47:061][932]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000154245f40e0, Size=4
+[2018.05.15-02.01.47:061][932]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015423ea9720, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_117:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.01.47:076][932]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015419b86980, Size=576
+[2018.05.15-02.01.47:076][932]LogUObjectGlobals: Created PersistentFrame Addr=0x000001541c2f9300, Size=576, ThirdPersonCharacter_C_87 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_119:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.01.47:084][932]LogUObjectGlobals: Created PersistentFrame Addr=0x00000154186a2200, Size=576, Default__ThirdPersonCharacter_C Function /Game/blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.01.47:282][932]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015423ea9720, Size=4
+[2018.05.15-02.02.35:006][728]LogUObjectGlobals: Created PersistentFrame Addr=0x00000154221953c8, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.02.46:134][867]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000154221953c8, Size=4
+[2018.05.15-02.02.46:134][867]LogUObjectGlobals: Created PersistentFrame Addr=0x00000154326a3db0, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_123:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.02.46:137][867]LogUObjectGlobals: Created PersistentFrame Addr=0x00000154326a3560, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.02.52:566][548]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000154326a3560, Size=4
+[2018.05.15-02.02.52:566][548]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015423eaa188, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_125:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.02.52:570][548]LogUObjectGlobals: Created PersistentFrame Addr=0x00000154253b2758, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.03.07:617][114]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.05.15-02.03.07:634][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000154253b2758, Size=4
+[2018.05.15-02.03.07:634][114]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015431a4aa50, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_127:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.03.07:650][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000154186a2200, Size=576
+[2018.05.15-02.03.07:650][114]LogUObjectGlobals: Created PersistentFrame Addr=0x000001543be6a980, Size=576, ThirdPersonCharacter_C_145 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_129:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.03.07:658][114]LogUObjectGlobals: Created PersistentFrame Addr=0x000001543286d080, Size=624, Default__ThirdPersonCharacter_C Function /Game/blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.03.07:858][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001541c2f9300, Size=576
+[2018.05.15-02.03.07:858][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015431a4aa50, Size=4
+[2018.05.15-02.03.08:347][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/ThirdPersonCharacter" FILE="C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2018.05.15-02.03.08:421][155]LogSavePackage: Save=57.34ms
+[2018.05.15-02.03.08:421][155]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonCharacter5078244E44072EC2ADD65AABF2B3885D.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset'
+[2018.05.15-02.03.08:424][155]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset
+[2018.05.15-02.04.56:571][146]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.05.15-02.04.56:604][146]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001543286d080, Size=624
+[2018.05.15-02.04.56:604][146]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015410d95080, Size=624, ThirdPersonCharacter_C_163 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_133:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.04.56:890][146]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The type of  Object  is undetermined.  Connect something to  Cast To StaminaBar  to imply a specific type.
+[2018.05.15-02.04.56:913][146]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2018.05.15-02.04.56:913][146]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015391115600, Size=704, Default__ThirdPersonCharacter_C Function /Game/blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.04.57:154][146]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [3166.14] Compile of ThirdPersonCharacter failed. 2 Fatal Issue(s) 0 Warning(s) [in 582 ms] (/Game/blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.05.15-02.05.01:473][557]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.15-02.05.05:940][ 30]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015430816588, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.05.37:333][321]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.05.15-02.05.37:350][321]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015430816588, Size=4
+[2018.05.15-02.05.37:350][321]LogUObjectGlobals: Created PersistentFrame Addr=0x000001540c211e18, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_137:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.05.37:368][321]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015391115600, Size=704
+[2018.05.15-02.05.37:368][321]LogUObjectGlobals: Created PersistentFrame Addr=0x00000153919d4a00, Size=704, ThirdPersonCharacter_C_165 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_139:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.05.37:377][321]LogUObjectGlobals: Created PersistentFrame Addr=0x00000153919d4400, Size=696, Default__ThirdPersonCharacter_C Function /Game/blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.05.37:579][321]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001540c211e18, Size=4
+[2018.05.15-02.05.38:533][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/ThirdPersonCharacter" FILE="C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2018.05.15-02.05.38:600][411]LogSavePackage: Save=59.82ms
+[2018.05.15-02.05.38:600][411]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonCharacterCD1F36E842A00E10064278B33D88112F.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset'
+[2018.05.15-02.05.38:603][411]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset
+[2018.05.15-02.05.41:020][685]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.15-02.05.41:041][685]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-02.05.41:041][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.15-02.05.41:041][685]PIE: New page: PIE session: ThirdPersonExampleMap (May 14, 2018, 12:05:41 PM)
+[2018.05.15-02.05.41:041][685]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.15-02.05.41:052][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011280s)
+[2018.05.15-02.05.41:053][685]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.15-02.05.41:053][685]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2018.05.15-02.05.41:053][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012364s)
+[2018.05.15-02.05.41:073][685]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000153919d4a00, Size=704
+[2018.05.15-02.05.41:080][685]LogInit: XAudio2 using 'Headphones (Plantronics GameCom 780/788)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.05.15-02.05.41:086][685]LogInit: FAudioDevice initialized.
+[2018.05.15-02.05.41:120][685]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.15-02.05.41:122][685]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.14-19.05.41
+[2018.05.15-02.05.41:123][685]LogWorld: Bringing up level for play took: 0.002100
+[2018.05.15-02.05.41:124][685]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.089
+[2018.05.15-02.05.41:124][685]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-02.05.42:274][783]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-02.05.43:172][891]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-02.05.43:398][918]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-02.05.45:018][111]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-02.05.45:111][122]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-02.05.45:622][181]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-02.05.45:727][193]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-02.05.45:869][209]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-02.05.45:930][216]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-02.05.46:063][230]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-02.05.46:129][237]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-02.05.46:410][266]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-02.05.46:556][281]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-02.05.46:999][326]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-02.05.47:328][359]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-02.05.47:389][359]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-02.05.49:208][489]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-02.06.17:560][580]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.15-02.06.33:292][249]LogUObjectGlobals: Created PersistentFrame Addr=0x000001543125c458, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.06.54:556][386]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.05.15-02.06.54:573][386]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001543125c458, Size=4
+[2018.05.15-02.06.54:573][386]LogUObjectGlobals: Created PersistentFrame Addr=0x00000154245f7ce0, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_143:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.06.54:590][386]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000153919d4400, Size=696
+[2018.05.15-02.06.54:590][386]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015458c52200, Size=696, ThirdPersonCharacter_C_191 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_145:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.06.54:598][386]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015458c53d00, Size=688, Default__ThirdPersonCharacter_C Function /Game/blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.06.54:804][386]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000154245f7ce0, Size=4
+[2018.05.15-02.06.55:243][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/ThirdPersonCharacter" FILE="C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2018.05.15-02.06.55:312][416]LogSavePackage: Save=63.57ms
+[2018.05.15-02.06.55:312][416]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonCharacter8E4FD5F74EF558D2502F6F8AA28AB42D.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset'
+[2018.05.15-02.06.55:314][416]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset
+[2018.05.15-02.06.57:240][623]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.15-02.06.57:258][623]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-02.06.57:258][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.15-02.06.57:258][623]PIE: New page: PIE session: ThirdPersonExampleMap (May 14, 2018, 12:06:57 PM)
+[2018.05.15-02.06.57:258][623]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.15-02.06.57:269][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011148s)
+[2018.05.15-02.06.57:270][623]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.15-02.06.57:270][623]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2018.05.15-02.06.57:270][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012048s)
+[2018.05.15-02.06.57:289][623]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015458c52200, Size=696
+[2018.05.15-02.06.57:297][623]LogInit: XAudio2 using 'Headphones (Plantronics GameCom 780/788)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.05.15-02.06.57:303][623]LogInit: FAudioDevice initialized.
+[2018.05.15-02.06.57:333][623]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.15-02.06.57:335][623]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.14-19.06.57
+[2018.05.15-02.06.57:335][623]LogWorld: Bringing up level for play took: 0.001847
+[2018.05.15-02.06.57:337][623]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.301
+[2018.05.15-02.06.57:337][623]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-02.06.57:972][693]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is true
+[2018.05.15-02.07.02:095][181]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sprinting is false
+[2018.05.15-02.07.02:581][232]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-02.07.02:638][232]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-02.07.03:477][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-02.07.03:578][331]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001541000ca00, Size=48
+[2018.05.15-02.07.03:578][331]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015442b81090, Size=48, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_149:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-02.07.03:579][331]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015442b81150, Size=48, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-02.07.03:693][331]LogSavePackage: Save=119.67ms
+[2018.05.15-02.07.03:693][331]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonExampleMapEE671A004C4D1011A4F28FA678BA7F35.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.05.15-02.07.03:697][331]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.05.15-02.07.03:847][331]LogSavePackage: Save=108.22ms
+[2018.05.15-02.07.03:847][331]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonExampleMap_BuiltDataB4002EF146388566D89A1C96D12CBDEA.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.05.15-02.07.03:849][331]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.05.15-02.07.05:184][483]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015423eaa188, Size=4
+[2018.05.15-02.07.05:184][483]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015442b81090, Size=48
+[2018.05.15-02.07.05:184][483]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015410d95080, Size=624
+[2018.05.15-02.07.05:184][483]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001543be6a980, Size=576
+[2018.05.15-02.07.05:184][483]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000154326a3db0, Size=4
+[2018.05.15-02.07.05:184][483]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000154245f7008, Size=4
+[2018.05.15-02.07.05:185][483]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000154308156e0, Size=4
+[2018.05.15-02.07.14:937][392]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015381cc8e28, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.07.32:157][867]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.05.15-02.07.32:174][867]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015381cc8e28, Size=4
+[2018.05.15-02.07.32:174][867]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015419a5dc60, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_153:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.07.32:191][867]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015458c53d00, Size=688
+[2018.05.15-02.07.32:191][867]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015443336b00, Size=688, ThirdPersonCharacter_C_217 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_155:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.07.32:199][867]LogUObjectGlobals: Created PersistentFrame Addr=0x000001544c3c6800, Size=688, Default__ThirdPersonCharacter_C Function /Game/blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.07.32:392][867]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015419a5dc60, Size=4
+[2018.05.15-02.07.33:988][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/ThirdPersonCharacter" FILE="C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2018.05.15-02.07.34:054][990]LogSavePackage: Save=60.79ms
+[2018.05.15-02.07.34:054][990]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonCharacter1A5DE5AF4CF79C37B5A5A790940CB7CC.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset'
+[2018.05.15-02.07.34:056][990]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset
+[2018.05.15-02.07.48:828][395]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.05.15-02.07.48:862][395]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001544c3c6800, Size=688
+[2018.05.15-02.07.48:862][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015443334400, Size=688, ThirdPersonCharacter_C_235 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_159:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.07.48:870][395]LogUObjectGlobals: Created PersistentFrame Addr=0x000001545715d900, Size=688, Default__ThirdPersonCharacter_C Function /Game/blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.07.49:067][395]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015443336b00, Size=688
+[2018.05.15-02.07.49:600][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/ThirdPersonCharacter" FILE="C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2018.05.15-02.07.49:665][432]LogSavePackage: Save=60.80ms
+[2018.05.15-02.07.49:665][432]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonCharacter48379A324F7488E76F659EB7746C20C7.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset'
+[2018.05.15-02.07.49:667][432]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset
+[2018.05.15-02.07.50:365][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/ThirdPersonCharacter" FILE="C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2018.05.15-02.07.50:423][503]LogSavePackage: Save=52.90ms
+[2018.05.15-02.07.50:423][503]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonCharacter2E287E0241AF330D9ABD81ACAD8BD846.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset'
+[2018.05.15-02.07.50:424][503]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset
+[2018.05.15-02.07.50:785][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/ThirdPersonCharacter" FILE="C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2018.05.15-02.07.50:841][539]LogSavePackage: Save=51.13ms
+[2018.05.15-02.07.50:841][539]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonCharacterE804BE2C4F23836C24D5E08322906EA0.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset'
+[2018.05.15-02.07.50:842][539]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset
+[2018.05.15-02.07.50:982][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/ThirdPersonCharacter" FILE="C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2018.05.15-02.07.51:042][552]LogSavePackage: Save=54.77ms
+[2018.05.15-02.07.51:042][552]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonCharacter48C9C4E3465F11BEC0DF969FA446F9DD.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset'
+[2018.05.15-02.07.51:043][552]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset
+[2018.05.15-02.07.59:434][348]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.05.15-02.07.59:469][348]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001545715d900, Size=688
+[2018.05.15-02.07.59:469][348]LogUObjectGlobals: Created PersistentFrame Addr=0x000001545715d900, Size=688, ThirdPersonCharacter_C_253 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_163:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.07.59:477][348]LogUObjectGlobals: Created PersistentFrame Addr=0x00000154103d9300, Size=688, Default__ThirdPersonCharacter_C Function /Game/blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.15-02.07.59:671][348]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015443334400, Size=688
+[2018.05.15-02.07.59:820][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/ThirdPersonCharacter" FILE="C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2018.05.15-02.07.59:882][350]LogSavePackage: Save=58.28ms
+[2018.05.15-02.07.59:882][350]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonCharacter7F4C96924EC27BB9F0C5F49ECD8A9C24.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset'
+[2018.05.15-02.07.59:884][350]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/blueprints/ThirdPersonCharacter.uasset
+[2018.05.15-02.08.01:544][480]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001545715d900, Size=688
+[2018.05.15-02.08.04:179][770]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015442b81150, Size=48
+[2018.05.15-02.08.04:179][770]LogUObjectGlobals: Created PersistentFrame Addr=0x000001541ba5f520, Size=48, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_167:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-02.08.04:180][770]LogUObjectGlobals: Created PersistentFrame Addr=0x000001541ba5e710, Size=48, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-02.08.04:285][770]LogSavePackage: Save=110.50ms
+[2018.05.15-02.08.04:285][770]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonExampleMapE311FE5242046EC3D4C244A7C309363D.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.05.15-02.08.04:288][770]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.05.15-02.08.04:430][770]LogSavePackage: Save=110.92ms
+[2018.05.15-02.08.04:431][770]LogSavePackage: Moving 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonExampleMap_BuiltData5BA010194A0F5F6F280744A2E415DB28.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.05.15-02.08.04:431][770]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/ThirdPersonExampleMap_BuiltData5BA010194A0F5F6F280744A2E415DB28.tmp' to 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset', retrying in .5s...
+[2018.05.15-02.08.04:933][770]LogFileManager: Warning: MoveFile recovered during retry!
+[2018.05.15-02.08.04:933][770]LogSavePackage: Display: Finished SavePackage C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.05.15-02.08.06:197][919]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001541ba5f520, Size=48
+[2018.05.15-02.08.07:061][919]LogSlate: Window 'ThirdPersonExampleMap - Level Blueprint Editor' being destroyed
+[2018.05.15-02.08.07:084][919]LogSlate: Window 'DarksoulsSwag - Unreal Editor' being destroyed
+[2018.05.15-02.08.07:085][919]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.15-02.08.07:333][920]Cmd: QUIT_EDITOR
+[2018.05.15-02.08.08:251][920]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.05.15-02.08.08:288][920]LogExit: Preparing to exit.
+[2018.05.15-02.08.09:700][920]PIE: UWidget::RemoveFromParent() called on 'None.ThirdPersonExampleMap:None' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-02.08.09:700][920]PIE: UWidget::RemoveFromParent() called on 'None.ThirdPersonExampleMap:None' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.15-02.08.09:895][920]LogExit: Editor shut down
+[2018.05.15-02.08.09:919][920]LogExit: Transaction tracking system shut down
+[2018.05.15-02.08.09:921][920]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015419f40b80, Size=568
+[2018.05.15-02.08.09:921][920]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000153c9462fc0, Size=160
+[2018.05.15-02.08.09:921][920]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000153e8d85408, Size=8
+[2018.05.15-02.08.09:930][920]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000153dd3160e8, Size=4
+[2018.05.15-02.08.09:930][920]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000153dd3160e0, Size=4
+[2018.05.15-02.08.09:933][920]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000154103d9300, Size=688
+[2018.05.15-02.08.09:933][920]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001541ba5e710, Size=48
+[2018.05.15-02.08.10:098][920]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.05.15-02.08.10:098][920]LogDirectoryWatcher: A directory notification for 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/' was aborted.
+[2018.05.15-02.08.10:098][920]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.05.15-02.08.10:098][920]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.05.15-02.08.10:098][920]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.05.15-02.08.10:098][920]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.05.15-02.08.10:098][920]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.05.15-02.08.10:098][920]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.05.15-02.08.11:179][920]LogExit: Object subsystem successfully closed.
+[2018.05.15-02.08.11:411][920]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.05.15-02.08.11:427][920]LogD3D11RHI: Shutdown
+[2018.05.15-02.08.11:427][920]LogD3D11RHI: CleanupD3DDevice
+[2018.05.15-02.08.11:490][920]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.05.15-02.08.12:141][920]LogModuleManager: Shutting down and abandoning module SequencerWidgets (580)
+[2018.05.15-02.08.12:141][920]LogModuleManager: Shutting down and abandoning module BlueprintGraph (578)
+[2018.05.15-02.08.12:141][920]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (576)
+[2018.05.15-02.08.12:141][920]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.05.15-02.08.12:141][920]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.05.15-02.08.12:141][920]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.05.15-02.08.12:149][920]LogDirectoryWatcher: A directory notification for 'E:/Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.05.15-02.08.12:154][920]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.05.15-02.08.12:154][920]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.05.15-02.08.12:154][920]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.05.15-02.08.12:154][920]LogDirectoryWatcher: A directory notification for 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/Collections/' was aborted.
+[2018.05.15-02.08.12:154][920]LogDirectoryWatcher: A directory notification for 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Content/Developers/Spencir/Collections/' was aborted.
+[2018.05.15-02.08.12:154][920]LogDirectoryWatcher: A directory notification for 'C:/Users/Spencir/Documents/Unreal Projects/DarksoulsSwag/FunSouls/Saved/Collections/' was aborted.
+[2018.05.15-02.08.12:154][920]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.05.15-02.08.12:173][920]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.05.15-02.08.12:173][920]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.05.15-02.08.12:173][920]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.05.15-02.08.12:173][920]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.05.15-02.08.12:173][920]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.05.15-02.08.12:173][920]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.05.15-02.08.12:173][920]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.05.15-02.08.12:173][920]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.05.15-02.08.12:173][920]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.05.15-02.08.12:173][920]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.05.15-02.08.12:173][920]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.05.15-02.08.12:173][920]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.05.15-02.08.12:173][920]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.05.15-02.08.12:173][920]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.05.15-02.08.12:217][920]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.05.15-02.08.12:217][920]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.05.15-02.08.12:225][920]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.05.15-02.08.12:225][920]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.05.15-02.08.12:259][920]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.05.15-02.08.12:259][920]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.05.15-02.08.12:259][920]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.05.15-02.08.12:259][920]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.05.15-02.08.12:259][920]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.05.15-02.08.12:259][920]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.05.15-02.08.12:259][920]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.05.15-02.08.12:259][920]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.05.15-02.08.12:259][920]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.05.15-02.08.12:259][920]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.05.15-02.08.12:259][920]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.05.15-02.08.12:259][920]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.05.15-02.08.12:259][920]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.05.15-02.08.12:259][920]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.05.15-02.08.12:259][920]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.05.15-02.08.12:259][920]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.05.15-02.08.12:269][920]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.05.15-02.08.12:269][920]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.05.15-02.08.12:269][920]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.05.15-02.08.12:269][920]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.05.15-02.08.12:295][920]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.05.15-02.08.12:295][920]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.05.15-02.08.12:295][920]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.05.15-02.08.12:295][920]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.05.15-02.08.12:982][920]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.05.15-02.08.12:982][920]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.05.15-02.08.12:982][920]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.05.15-02.08.12:982][920]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.05.15-02.08.12:982][920]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.05.15-02.08.12:982][920]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.05.15-02.08.12:982][920]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.05.15-02.08.12:982][920]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.05.15-02.08.12:982][920]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.05.15-02.08.12:982][920]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.05.15-02.08.12:982][920]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.05.15-02.08.12:982][920]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.05.15-02.08.12:982][920]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.05.15-02.08.12:982][920]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.05.15-02.08.12:982][920]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.05.15-02.08.12:983][920]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.05.15-02.08.12:983][920]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.05.15-02.08.12:983][920]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.05.15-02.08.12:983][920]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.05.15-02.08.12:983][920]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.05.15-02.08.12:983][920]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.05.15-02.08.13:047][920]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.05.15-02.08.13:047][920]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.05.15-02.08.13:047][920]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.05.15-02.08.13:047][920]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.05.15-02.08.13:047][920]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.05.15-02.08.13:086][920]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.05.15-02.08.13:086][920]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.05.15-02.08.13:086][920]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.05.15-02.08.13:086][920]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.05.15-02.08.13:086][920]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.05.15-02.08.13:098][920]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.05.15-02.08.13:098][920]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.05.15-02.08.13:099][920]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.05.15-02.08.13:099][920]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.05.15-02.08.13:099][920]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.05.15-02.08.13:114][920]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.05.15-02.08.13:114][920]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.05.15-02.08.13:114][920]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.05.15-02.08.13:115][920]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.05.15-02.08.13:115][920]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.05.15-02.08.13:115][920]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.05.15-02.08.13:115][920]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.05.15-02.08.13:115][920]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.05.15-02.08.13:115][920]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.05.15-02.08.13:115][920]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.05.15-02.08.13:115][920]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.05.15-02.08.13:115][920]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.05.15-02.08.13:120][920]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.05.15-02.08.13:120][920]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.05.15-02.08.13:120][920]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.05.15-02.08.13:127][920]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.05.15-02.08.13:318][920]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.05.15-02.08.13:318][920]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.05.15-02.08.13:318][920]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.05.15-02.08.13:318][920]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.05.15-02.08.13:331][920]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.05.15-02.08.13:331][920]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.05.15-02.08.13:331][920]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.05.15-02.08.13:331][920]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.05.15-02.08.13:331][920]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.05.15-02.08.13:331][920]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.05.15-02.08.13:331][920]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.05.15-02.08.13:331][920]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.05.15-02.08.13:331][920]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.05.15-02.08.13:331][920]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.05.15-02.08.13:331][920]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.05.15-02.08.13:331][920]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.05.15-02.08.13:331][920]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.05.15-02.08.13:335][920]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.05.15-02.08.13:335][920]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.05.15-02.08.13:335][920]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.05.15-02.08.13:335][920]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.05.15-02.08.13:335][920]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.05.15-02.08.13:335][920]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.05.15-02.08.13:335][920]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.05.15-02.08.13:335][920]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.05.15-02.08.13:335][920]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.05.15-02.08.13:335][920]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.05.15-02.08.13:335][920]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.05.15-02.08.13:335][920]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.05.15-02.08.13:335][920]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.05.15-02.08.13:335][920]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.05.15-02.08.13:335][920]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.05.15-02.08.13:335][920]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.05.15-02.08.13:335][920]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.05.15-02.08.13:335][920]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.05.15-02.08.13:354][920]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.05.15-02.08.13:354][920]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.05.15-02.08.13:354][920]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.05.15-02.08.13:354][920]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.05.15-02.08.13:354][920]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.05.15-02.08.13:354][920]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.05.15-02.08.13:354][920]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.05.15-02.08.13:354][920]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.05.15-02.08.13:354][920]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.05.15-02.08.13:354][920]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.05.15-02.08.13:354][920]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.05.15-02.08.13:354][920]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.05.15-02.08.13:354][920]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.05.15-02.08.13:354][920]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.05.15-02.08.13:354][920]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.05.15-02.08.13:475][920]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.05.15-02.08.13:576][920]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.05.15-02.08.13:576][920]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.05.15-02.08.13:576][920]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.05.15-02.08.13:576][920]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.05.15-02.08.13:576][920]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.05.15-02.08.13:576][920]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.05.15-02.08.13:577][920]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.05.15-02.08.13:577][920]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.05.15-02.08.13:577][920]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.05.15-02.08.13:577][920]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.05.15-02.08.13:578][920]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.05.15-02.08.13:580][920]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.05.15-02.08.13:580][920]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.05.15-02.08.13:580][920]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.05.15-02.08.13:580][920]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.05.15-02.08.14:119][920]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.05.15-02.08.14:119][920]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.05.15-02.08.14:119][920]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.05.15-02.08.14:120][920]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.05.15-02.08.14:126][920]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.05.15-02.08.14:126][920]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.05.15-02.08.14:126][920]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.05.15-02.08.14:126][920]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.05.15-02.08.14:126][920]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.05.15-02.08.14:126][920]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.05.15-02.08.14:126][920]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.05.15-02.08.14:164][920]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.05.15-02.08.14:164][920]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.05.15-02.08.14:164][920]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.05.15-02.08.14:259][920]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.05.15-02.08.14:284][920]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.05.15-02.08.14:293][920]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.05.15-02.08.14:293][920]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.05.15-02.08.14:293][920]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.05.15-02.08.14:293][920]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.05.15-02.08.14:293][920]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.05.15-02.08.14:293][920]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.05.15-02.08.14:327][920]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.05.15-02.08.14:327][920]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.05.15-02.08.14:329][920]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.05.15-02.08.14:329][920]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.05.15-02.08.14:329][920]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.05.15-02.08.14:329][920]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.05.15-02.08.14:329][920]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.05.15-02.08.14:329][920]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.05.15-02.08.14:329][920]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.05.15-02.08.14:348][920]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.05.15-02.08.14:348][920]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.05.15-02.08.14:354][920]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.05.15-02.08.14:354][920]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.05.15-02.08.14:354][920]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.05.15-02.08.14:379][920]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.05.15-02.08.14:385][920]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.05.15-02.08.14:390][920]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.05.15-02.08.14:415][920]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.05.15-02.08.14:424][920]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.05.15-02.08.14:485][920]LogDerivedDataCache: Shutdown
+[2018.05.15-02.08.14:485][920]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.05.15-02.08.14:485][920]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.05.15-02.08.14:485][920]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.05.15-02.08.14:509][920]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.05.15-02.08.14:528][920]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.05.15-02.08.14:532][920]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.05.15-02.08.14:552][920]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.05.15-02.08.14:570][920]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.05.15-02.08.14:570][920]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.05.15-02.08.14:570][920]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.05.15-02.08.14:591][920]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.05.15-02.08.14:593][920]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.05.15-02.08.14:594][920]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.05.15-02.08.14:594][920]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.05.15-02.08.14:594][920]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.05.15-02.08.14:594][920]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.05.15-02.08.14:594][920]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.05.15-02.08.14:594][920]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.05.15-02.08.14:594][920]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.05.15-02.08.14:611][920]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.05.15-02.08.14:611][920]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.05.15-02.08.14:611][920]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.05.15-02.08.14:611][920]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.05.15-02.08.14:611][920]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.05.15-02.08.14:623][920]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.05.15-02.08.14:666][920]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.05.15-02.08.14:676][920]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.05.15-02.08.14:676][920]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA081476E-4F67-0131-4022-4D858BB2BBDE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=4ea398974ca3abb079f009bc27352d56%7C7209159b2b92481f9a7875882675744b%7C83da6bf3-5b0a-4bec-8b82-18b06e9feb7e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.05.15-02.08.14:706][920]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.05.15-02.08.14:732][920]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.05.15-02.08.14:768][920]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.05.15-02.08.14:790][920]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.05.15-02.08.14:807][920]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.05.15-02.08.14:815][920]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.05.15-02.08.14:815][920]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.05.15-02.08.14:815][920]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.05.15-02.08.14:827][920]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.05.15-02.08.14:861][920]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.05.15-02.08.14:861][920]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.05.15-02.08.14:884][920]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.05.15-02.08.14:884][920]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.05.15-02.08.14:884][920]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.05.15-02.08.14:884][920]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.05.15-02.08.14:901][920]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.05.15-02.08.14:901][920]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.05.15-02.08.14:916][920]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.05.15-02.08.14:923][920]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.05.15-02.08.14:954][920]LogExit: Exiting.
+[2018.05.15-02.08.14:969][920]Log file closed, 05/14/18 19:08:14
+>>>>>>> 80cefedaeed94695f6e0034453a58f4f890a5cf2
