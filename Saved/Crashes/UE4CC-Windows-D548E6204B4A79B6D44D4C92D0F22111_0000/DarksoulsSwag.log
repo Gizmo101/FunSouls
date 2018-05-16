@@ -1,0 +1,1242 @@
+﻿Log file open, 05/15/18 16:45:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: DarksoulsSwag
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(389372016) SRandInit(389372016).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.582957
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.608s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-VO9UFFC (192.168.1.3:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/My Stuff/Steam/Fortnite/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.15-23.45.15:323][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.15-23.45.15:323][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.15-23.45.15:395][  0]LogInit: Computer: DESKTOP-VO9UFFC
+[2018.05.15-23.45.15:396][  0]LogInit: User: spenc
+[2018.05.15-23.45.15:396][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.05.15-23.45.15:396][  0]LogInit: High frequency timer resolution =3.421876 MHz
+[2018.05.15-23.45.15:402][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2018.05.15-23.45.15:402][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.15-23.45.15:402][  0]LogMemory: Process Physical Memory: 275.12 MB used, 275.12 MB peak
+[2018.05.15-23.45.15:402][  0]LogMemory: Process Virtual Memory: 271.39 MB used, 271.39 MB peak
+[2018.05.15-23.45.15:402][  0]LogMemory: Physical Memory: 7078.89 MB used,  8986.50 MB free, 16065.39 MB total
+[2018.05.15-23.45.15:402][  0]LogMemory: Virtual Memory: 718.59 MB used,  8986.50 MB free, 134217728.00 MB total
+[2018.05.15-23.45.15:933][  0]LogInit: Using OS detected language (en-US).
+[2018.05.15-23.45.15:933][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.15-23.45.16:133][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.15-23.45.16:748][  0]LogStreaming: Display: Took  0.802s to EndInitTextLocalization.
+[2018.05.15-23.45.16:764][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.15-23.45.17:404][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.15-23.45.17:404][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.15-23.45.17:894][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.15-23.45.17:952][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.05.15-23.45.17:952][  0]LogD3D11RHI:       8086/0/8032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.05.15-23.45.17:955][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.15-23.45.17:955][  0]LogD3D11RHI:       0/0/8032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.15-23.45.17:955][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.15-23.45.17:968][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.15-23.45.17:968][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.15-23.45.17:968][  0]LogWindows: EnumDisplayDevices:
+[2018.05.15-23.45.17:968][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.05.15-23.45.17:968][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.05.15-23.45.17:968][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.05.15-23.45.17:968][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.05.15-23.45.17:968][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.15-23.45.17:968][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.05.15-23.45.17:968][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.15-23.45.17:968][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.15-23.45.17:969][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2018.05.15-23.45.18:017][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.15-23.45.18:017][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.15-23.45.18:018][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.15-23.45.18:276][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.05.15-23.45.18:428][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (C:/Users/spenc/Documents/GitHub/FunSouls/Intermediate/Shaders/WorkingDirectory/11776/).
+[2018.05.15-23.45.18:439][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/spenc/AppData/Local/Temp/UnrealShaderWorkingDir/D0907DD04960FA6934FA40BE3F577E19/'.
+[2018.05.15-23.45.19:526][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.15-23.45.19:537][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.15-23.45.19:547][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.15-23.45.19:558][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.15-23.45.19:599][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.15-23.45.19:621][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.15-23.45.19:642][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.15-23.45.19:672][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.15-23.45.19:678][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.15-23.45.19:695][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.15-23.45.19:735][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.15-23.45.19:759][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.15-23.45.19:769][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.15-23.45.19:785][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.15-23.45.19:816][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.15-23.45.19:855][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.15-23.45.19:855][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.15-23.45.19:896][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.15-23.45.19:915][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.15-23.45.20:019][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.15-23.45.20:041][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.15-23.45.20:063][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.15-23.45.20:078][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.15-23.45.20:096][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.15-23.45.20:120][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.15-23.45.20:120][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.15-23.45.20:591][  0]LogXGEController: Cleaning working directory: C:/Users/spenc/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.05.15-23.45.20:591][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.15-23.45.20:600][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.15-23.45.20:600][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.15-23.45.22:052][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.15-23.45.22:333][  0]LogDerivedDataCache: Loaded boot cache 0.28s 74MB C:/Users/spenc/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.15-23.45.22:333][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/spenc/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.15-23.45.22:333][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/spenc/Documents/GitHub/FunSouls/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.15-23.45.22:333][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.15-23.45.22:333][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/spenc/Documents/GitHub/FunSouls/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.15-23.45.22:333][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.15-23.45.22:385][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.15-23.45.22:397][  0]LogDerivedDataCache: Using Local data cache path C:/Users/spenc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.15-23.45.22:397][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.05.15-23.45.22:397][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.05.15-23.45.22:455][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.15-23.45.22:519][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.15-23.45.22:596][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.15-23.45.22:597][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.15-23.45.25:444][  0]LogAssetRegistry: FAssetRegistry took 0.0269 seconds to start up
+[2018.05.15-23.45.29:686][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.15-23.45.30:922][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.15-23.45.30:926][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.15-23.45.30:926][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.15-23.45.30:926][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.15-23.45.30:926][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.15-23.45.30:926][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.15-23.45.31:406][  0]LogNetVersion: DarksoulsSwag , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 397616358)
+[2018.05.15-23.45.34:691][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.097247 seconds
+[2018.05.15-23.45.34:711][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.15-23.45.34:711][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.05.15-23.45.34:711][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.15-23.45.42:101][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.15-23.45.42:146][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.15-23.45.42:934][  0]SourceControl: Source control is disabled
+[2018.05.15-23.45.42:945][  0]SourceControl: Source control is disabled
+[2018.05.15-23.45.43:019][  0]SourceControl: Source control is disabled
+[2018.05.15-23.45.43:043][  0]SourceControl: Source control is disabled
+[2018.05.15-23.45.44:097][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.15-23.45.44:286][  0]LogOcInput: OculusInput pre-init called
+[2018.05.15-23.45.44:776][  0]LogEngine: Initializing Engine...
+[2018.05.15-23.45.44:835][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.15-23.45.44:882][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.15-23.45.44:883][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.15-23.45.45:994][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.15-23.45.46:175][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.15-23.45.46:216][  0]LogInit: FAudioDevice initialized.
+[2018.05.15-23.45.46:301][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/spenc/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.15-23.45.46:313][  0]LogInit: Texture streaming: Enabled
+[2018.05.15-23.45.46:472][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.15-23.45.46:758][  0]LogInit: Transaction tracking system initialized
+[2018.05.15-23.45.47:080][  0]BlueprintLog: New page: Editor Load
+[2018.05.15-23.45.48:063][  0]LocalizationService: Localization service is disabled
+[2018.05.15-23.45.48:582][  0]LogConsoleResponse: Display: 
+[2018.05.15-23.45.51:008][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spenc/Documents/GitHub/FunSouls/Content/' took 0.07s
+[2018.05.15-23.45.51:008][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.15-23.45.51:008][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.15-23.45.51:008][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.15-23.45.51:008][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.15-23.45.51:008][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.15-23.45.52:585][  0]SourceControl: Source control is disabled
+[2018.05.15-23.45.52:616][  0]Cmd: MAP LOAD FILE="C:/Users/spenc/Documents/GitHub/FunSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.15-23.45.52:639][  0]LightingResults: New page: Lighting Build
+[2018.05.15-23.45.52:821][  0]MapCheck: New page: Map Check
+[2018.05.15-23.45.52:821][  0]LightingResults: New page: Lighting Build
+[2018.05.15-23.45.54:334][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d91240b730, Size=48, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-23.45.54:341][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d91240b730, Size=48
+[2018.05.15-23.45.54:341][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d91240b730, Size=48, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_9:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-23.45.54:349][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d91240b220, Size=48, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.15-23.45.54:882][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.15-23.45.55:358][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.15-23.45.55:448][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d91240b730, Size=48
+[2018.05.15-23.45.55:467][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.15-23.45.55:511][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44.064ms to complete.
+[2018.05.15-23.45.55:511][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.911
+[2018.05.15-23.45.56:959][  0]LogCollectionManager: Loaded 0 collections in 0.000838 seconds
+[2018.05.15-23.45.57:094][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spenc/Documents/GitHub/FunSouls/Saved/Collections/' took 0.01s
+[2018.05.15-23.45.57:094][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spenc/Documents/GitHub/FunSouls/Content/Developers/spenc/Collections/' took 0.01s
+[2018.05.15-23.45.57:094][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spenc/Documents/GitHub/FunSouls/Content/Collections/' took 0.01s
+[2018.05.15-23.45.57:094][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.15-23.45.57:104][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2452 classes and 558 folders.
+[2018.05.15-23.45.57:178][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.15-23.45.57:585][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.15-23.45.57:645][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.05.15-23.45.58:039][  0]LogSlate: Took 0.006770 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.15-23.45.58:069][  0]LogSlate: Took 0.028535 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.15-23.45.58:131][  0]LogSlate: Took 0.011387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.15-23.45.58:552][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.05.15-23.45.59:133][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-23.45.59:248][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.05.15-23.45.59:336][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.15-23.45.59:336][  0]LogLoad: (Engine Initialization) Total time: 56.02 seconds
+[2018.05.15-23.45.59:336][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.15-23.46.00:077][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.15-23.46.00:282][  0]LogSlate: Took 0.005254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.15-23.46.00:771][  2]LogAssetRegistry: Asset discovery search completed in 35.3499 seconds
+[2018.05.15-23.46.00:789][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.05.15-23.46.00:789][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000520 seconds (updated 0 objects)
+[2018.05.15-23.46.11:505][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-23.46.11:614][439]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.15-23.46.11:637][439]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-23.46.11:674][439]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.15-23.46.11:764][439]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2018, 9:46:11 AM)
+[2018.05.15-23.46.11:776][439]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.15-23.46.11:840][439]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064020s)
+[2018.05.15-23.46.11:840][439]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.15-23.46.11:850][439]LogPlayLevel: PIE: World Init took: (0.009716s)
+[2018.05.15-23.46.11:850][439]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.073950s)
+[2018.05.15-23.46.11:876][439]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.15-23.46.11:913][439]LogInit: FAudioDevice initialized.
+[2018.05.15-23.46.12:023][439]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d94127bcc0, Size=12, Default__ABP_Character_C Function /Game/blueprints/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character
+[2018.05.15-23.46.12:126][439]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d94127bcc0, Size=12
+[2018.05.15-23.46.12:126][439]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d94127bcc0, Size=12, Default__ABP_Character_C Function /Engine/Transient.REINST_ABP_Character_C_0:ExecuteUbergraph_ABP_Character
+[2018.05.15-23.46.12:146][439]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9188c7e00, Size=12, Default__ABP_Character_C Function /Game/blueprints/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character
+[2018.05.15-23.46.12:192][439]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9188da700, Size=536, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.15-23.46.12:208][439]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9188da700, Size=536
+[2018.05.15-23.46.12:208][439]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9188da700, Size=536, Default__thirdperson_C Function /Engine/Transient.REINST_thirdperson_C_12:ExecuteUbergraph_thirdperson
+[2018.05.15-23.46.12:235][439]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9187ebd80, Size=536, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.15-23.46.12:383][439]LogSkeletalMesh: Skeletal Mesh found in DDC [5.966318ms] /Game/ThirdPersonBP/knight_d_pelegrini.knight_d_pelegrini
+[2018.05.15-23.46.12:447][439]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.15-23.46.12:550][439]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.15-16.46.12
+[2018.05.15-23.46.12:649][439]LogWorld: Bringing up level for play took: 0.099973
+[2018.05.15-23.46.12:774][439]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.05.15-23.46.13:016][439]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.088
+[2018.05.15-23.46.13:016][439]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-23.46.34:264][  1]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-23.46.34:469][  1]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-23.46.34:530][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9188da700, Size=536
+[2018.05.15-23.46.34:530][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d94127bcc0, Size=12
+[2018.05.15-23.46.35:423][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-23.46.36:333][183]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.15-23.46.36:998][183]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.05.15-23.46.37:381][183]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9845a6238, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.15-23.46.37:390][183]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9845a6230, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.15-23.46.38:430][183]LogSlate: Took 0.017474 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.15-23.46.39:013][184]LogSlate: Took 0.006718 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.15-23.47.26:285][140]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2018.05.15-23.47.37:604][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-23.47.37:683][ 11]BlueprintLog: New page: Compile thirdperson
+[2018.05.15-23.47.37:726][ 11]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9187ebd80, Size=536
+[2018.05.15-23.47.37:726][ 11]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d998f9d800, Size=536, Default__thirdperson_C Function /Engine/Transient.REINST_thirdperson_C_30:ExecuteUbergraph_thirdperson
+[2018.05.15-23.47.37:732][ 11]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d998f1fb00, Size=536, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.15-23.47.39:015][ 60]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.15-23.47.39:019][ 60]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.15-23.47.40:014][157]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.15-23.47.40:026][157]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-23.47.40:026][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.15-23.47.40:027][157]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2018, 9:47:40 AM)
+[2018.05.15-23.47.40:027][157]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.15-23.47.40:039][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012007s)
+[2018.05.15-23.47.40:039][157]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.15-23.47.40:039][157]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2018.05.15-23.47.40:039][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012813s)
+[2018.05.15-23.47.40:072][157]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.15-23.47.40:107][157]LogInit: FAudioDevice initialized.
+[2018.05.15-23.47.40:143][157]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.15-23.47.40:145][157]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.15-16.47.40
+[2018.05.15-23.47.40:145][157]LogWorld: Bringing up level for play took: 0.001243
+[2018.05.15-23.47.40:146][157]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.219
+[2018.05.15-23.47.40:147][157]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-23.47.42:269][407]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-23.47.42:305][407]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-23.47.43:514][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-23.47.47:135][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-23.47.53:113][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-23.47.58:442][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-23.47.58:515][634]BlueprintLog: New page: Compile thirdperson
+[2018.05.15-23.47.58:540][634]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d998f1fb00, Size=536
+[2018.05.15-23.47.58:540][634]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d97f896480, Size=536, thirdperson_C_432 Function /Engine/Transient.REINST_thirdperson_C_34:ExecuteUbergraph_thirdperson
+[2018.05.15-23.47.58:546][634]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9829d2e80, Size=536, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.15-23.48.00:883][798]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.15-23.48.00:887][798]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.15-23.48.01:578][873]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.15-23.48.01:588][873]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-23.48.01:588][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.15-23.48.01:589][873]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2018, 9:48:01 AM)
+[2018.05.15-23.48.01:589][873]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.15-23.48.01:601][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012057s)
+[2018.05.15-23.48.01:601][873]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.15-23.48.01:601][873]LogPlayLevel: PIE: World Init took: (0.000620s)
+[2018.05.15-23.48.01:601][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012806s)
+[2018.05.15-23.48.01:617][873]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.15-23.48.01:652][873]LogInit: FAudioDevice initialized.
+[2018.05.15-23.48.01:685][873]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.15-23.48.01:686][873]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.15-16.48.01
+[2018.05.15-23.48.01:686][873]LogWorld: Bringing up level for play took: 0.001293
+[2018.05.15-23.48.01:688][873]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.24
+[2018.05.15-23.48.01:688][873]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-23.48.07:519][483]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-23.48.07:554][483]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-23.48.08:823][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-23.48.12:019][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-23.48.15:700][ 81]LogEditorTransaction: Undo Modify Component(s)
+[2018.05.15-23.48.17:760][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-23.48.19:020][340]LogEditorTransaction: Undo Modify Component(s)
+[2018.05.15-23.48.19:584][385]LogEditorTransaction: Undo Modify Component(s)
+[2018.05.15-23.48.20:636][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-23.48.24:782][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-23.48.24:831][799]BlueprintLog: New page: Compile thirdperson
+[2018.05.15-23.48.24:855][799]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9829d2e80, Size=536
+[2018.05.15-23.48.24:855][799]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d999542480, Size=536, thirdperson_C_815 Function /Engine/Transient.REINST_thirdperson_C_38:ExecuteUbergraph_thirdperson
+[2018.05.15-23.48.24:861][799]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d98a2d5080, Size=536, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.15-23.48.25:594][836]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.15-23.48.25:598][836]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.15-23.48.26:508][937]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.15-23.48.26:519][937]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-23.48.26:519][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.15-23.48.26:519][937]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2018, 9:48:26 AM)
+[2018.05.15-23.48.26:519][937]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.15-23.48.26:531][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012185s)
+[2018.05.15-23.48.26:532][937]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.15-23.48.26:532][937]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2018.05.15-23.48.26:532][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012998s)
+[2018.05.15-23.48.26:569][937]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.15-23.48.26:604][937]LogInit: FAudioDevice initialized.
+[2018.05.15-23.48.26:636][937]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.15-23.48.26:638][937]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.15-16.48.26
+[2018.05.15-23.48.26:638][937]LogWorld: Bringing up level for play took: 0.001353
+[2018.05.15-23.48.26:640][937]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.712
+[2018.05.15-23.48.26:640][937]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-23.48.30:040][319]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-23.48.30:073][319]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-23.48.32:058][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-23.52.06:473][836]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9b9e166d8, Size=4, Default__SKEL_thirdperson_C Function /Game/blueprints/thirdperson.SKEL_thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.15-23.52.13:176][399]LogSlate: Took 0.005545 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.05.15-23.52.14:097][474]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9b9e166d8, Size=4
+[2018.05.15-23.52.14:097][474]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d999a0d4c8, Size=4, Default__SKEL_thirdperson_C Function /Engine/Transient.REINST_SKEL_thirdperson_C_42:ExecuteUbergraph_thirdperson
+[2018.05.15-23.52.14:100][474]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d999a0c7d8, Size=4, Default__SKEL_thirdperson_C Function /Game/blueprints/thirdperson.SKEL_thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.15-23.52.18:361][826]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d999a0c7d8, Size=4
+[2018.05.15-23.52.18:361][826]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9ba3055e0, Size=4, Default__SKEL_thirdperson_C Function /Engine/Transient.REINST_SKEL_thirdperson_C_44:ExecuteUbergraph_thirdperson
+[2018.05.15-23.52.18:364][826]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9ba307208, Size=4, Default__SKEL_thirdperson_C Function /Game/blueprints/thirdperson.SKEL_thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.15-23.52.23:033][209]BlueprintLog: New page: Compile thirdperson
+[2018.05.15-23.52.23:046][209]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9ba307208, Size=4
+[2018.05.15-23.52.23:046][209]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d983a2de30, Size=4, Default__SKEL_thirdperson_C Function /Engine/Transient.REINST_SKEL_thirdperson_C_46:ExecuteUbergraph_thirdperson
+[2018.05.15-23.52.23:059][209]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d98a2d5080, Size=536
+[2018.05.15-23.52.23:059][209]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d97f894680, Size=536, thirdperson_C_862 Function /Engine/Transient.REINST_thirdperson_C_48:ExecuteUbergraph_thirdperson
+[2018.05.15-23.52.23:065][209]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9826e0400, Size=536, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.15-23.52.23:266][209]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d983a2de30, Size=4
+[2018.05.15-23.52.48:564][270]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9b9450490, Size=4, Default__SKEL_thirdperson_C Function /Game/blueprints/thirdperson.SKEL_thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.15-23.52.59:943][199]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9b9450490, Size=4
+[2018.05.15-23.52.59:943][199]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9992e5138, Size=4, Default__SKEL_thirdperson_C Function /Engine/Transient.REINST_SKEL_thirdperson_C_52:ExecuteUbergraph_thirdperson
+[2018.05.15-23.52.59:947][199]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9992e6948, Size=4, Default__SKEL_thirdperson_C Function /Game/blueprints/thirdperson.SKEL_thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.15-23.53.03:053][439]BlueprintLog: New page: Compile thirdperson
+[2018.05.15-23.53.03:067][439]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9992e6948, Size=4
+[2018.05.15-23.53.03:067][439]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9b96b1d18, Size=4, Default__SKEL_thirdperson_C Function /Engine/Transient.REINST_SKEL_thirdperson_C_54:ExecuteUbergraph_thirdperson
+[2018.05.15-23.53.03:080][439]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9826e0400, Size=536
+[2018.05.15-23.53.03:080][439]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d93dbc8e00, Size=536, thirdperson_C_912 Function /Engine/Transient.REINST_thirdperson_C_56:ExecuteUbergraph_thirdperson
+[2018.05.15-23.53.03:088][439]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d944d5d080, Size=528, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.15-23.53.03:292][439]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9b96b1d18, Size=4
+[2018.05.15-23.53.46:271][828]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9b9c4e0a0, Size=4, Default__SKEL_thirdperson_C Function /Game/blueprints/thirdperson.SKEL_thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.15-23.53.49:531][ 54]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9b9c4e0a0, Size=4
+[2018.05.15-23.53.49:531][ 54]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9a61200b8, Size=4, Default__SKEL_thirdperson_C Function /Engine/Transient.REINST_SKEL_thirdperson_C_60:ExecuteUbergraph_thirdperson
+[2018.05.15-23.53.49:534][ 54]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9a6122da8, Size=4, Default__SKEL_thirdperson_C Function /Game/blueprints/thirdperson.SKEL_thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.15-23.54.00:852][899]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9a6122da8, Size=4
+[2018.05.15-23.54.00:852][899]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d98898cdb8, Size=4, Default__SKEL_thirdperson_C Function /Engine/Transient.REINST_SKEL_thirdperson_C_62:ExecuteUbergraph_thirdperson
+[2018.05.15-23.54.00:855][899]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d98898e7b8, Size=4, Default__SKEL_thirdperson_C Function /Game/blueprints/thirdperson.SKEL_thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.15-23.56.53:407][104]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.016
+[2018.05.15-23.56.53:477][104]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/blueprints/thirdperson] ([1] browsable assets)...
+[2018.05.15-23.56.53:498][104]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprints/thirdperson.thirdperson]
+[2018.05.15-23.56.53:498][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/thirdperson]
+[2018.05.15-23.56.53:498][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/thirdperson" FILE="C:/Users/spenc/Documents/GitHub/FunSouls/Saved/Autosaves/Game/blueprints/thirdperson_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.15-23.56.53:600][104]LogSavePackage: Save=85.09ms
+[2018.05.15-23.56.53:600][104]LogSavePackage: Moving 'C:/Users/spenc/Documents/GitHub/FunSouls/Saved/thirdperson_Auto147A2627A487EE03C5AA700A13B9DDB4A.tmp' to 'C:/Users/spenc/Documents/GitHub/FunSouls/Saved/Autosaves/Game/blueprints/thirdperson_Auto1.uasset'
+[2018.05.15-23.56.53:615][104]LogSavePackage: Display: Finished SavePackage C:/Users/spenc/Documents/GitHub/FunSouls/Saved/Autosaves/Game/blueprints/thirdperson_Auto1.uasset
+[2018.05.15-23.56.53:615][104]LogFileHelpers: Auto-saving content packages took 0.207
+[2018.05.16-00.01.59:366][232]BlueprintLog: New page: Compile thirdperson
+[2018.05.16-00.01.59:380][232]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d98898e7b8, Size=4
+[2018.05.16-00.01.59:380][232]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9ba307d70, Size=4, Default__SKEL_thirdperson_C Function /Engine/Transient.REINST_SKEL_thirdperson_C_64:ExecuteUbergraph_thirdperson
+[2018.05.16-00.01.59:394][232]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d944d5d080, Size=528
+[2018.05.16-00.01.59:394][232]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9c70aec00, Size=528, thirdperson_C_970 Function /Engine/Transient.REINST_thirdperson_C_66:ExecuteUbergraph_thirdperson
+[2018.05.16-00.01.59:400][232]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d983946480, Size=528, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.01.59:606][232]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9ba307d70, Size=4
+[2018.05.16-00.02.02:717][476]BlueprintLog: New page: Compile thirdperson
+[2018.05.16-00.02.02:745][476]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d983946480, Size=528
+[2018.05.16-00.02.02:745][476]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d944d5ee80, Size=528, thirdperson_C_988 Function /Engine/Transient.REINST_thirdperson_C_70:ExecuteUbergraph_thirdperson
+[2018.05.16-00.02.02:751][476]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9c99a0b80, Size=528, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.03.26:069][569]LogEditorTransaction: Undo Create Pin Link
+[2018.05.16-00.03.26:073][569]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d92ebca320, Size=4, Default__SKEL_thirdperson_C Function /Game/blueprints/thirdperson.SKEL_thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.04.08:156][656]BlueprintLog: New page: Compile thirdperson
+[2018.05.16-00.04.08:170][656]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d92ebca320, Size=4
+[2018.05.16-00.04.08:170][656]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d98b10a430, Size=4, Default__SKEL_thirdperson_C Function /Engine/Transient.REINST_SKEL_thirdperson_C_74:ExecuteUbergraph_thirdperson
+[2018.05.16-00.04.08:184][656]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9c99a0b80, Size=528
+[2018.05.16-00.04.08:184][656]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9c9abf100, Size=528, thirdperson_C_1014 Function /Engine/Transient.REINST_thirdperson_C_76:ExecuteUbergraph_thirdperson
+[2018.05.16-00.04.08:191][656]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9c9abac00, Size=536, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.04.08:398][656]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d98b10a430, Size=4
+[2018.05.16-00.04.09:982][759]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.04.09:987][759]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.04.10:792][846]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-00.04.10:804][846]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.04.10:804][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-00.04.10:804][846]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2018, 10:04:10 AM)
+[2018.05.16-00.04.10:804][846]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.16-00.04.10:816][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012033s)
+[2018.05.16-00.04.10:817][846]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.16-00.04.10:817][846]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2018.05.16-00.04.10:817][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012906s)
+[2018.05.16-00.04.10:829][846]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9c9abf100, Size=528
+[2018.05.16-00.04.10:834][846]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-00.04.10:869][846]LogInit: FAudioDevice initialized.
+[2018.05.16-00.04.10:902][846]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.16-00.04.10:903][846]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.15-17.04.10
+[2018.05.16-00.04.10:904][846]LogWorld: Bringing up level for play took: 0.001349
+[2018.05.16-00.04.10:905][846]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.978
+[2018.05.16-00.04.10:906][846]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.04.26:009][ 44]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.04.26:068][ 44]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.04.27:168][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.16-00.04.32:230][487]Cmd: TRANSACTION UNDO
+[2018.05.16-00.04.32:230][487]LogEditorTransaction: Undo Create Pin Link
+[2018.05.16-00.04.32:234][487]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9ba3048d0, Size=4, Default__SKEL_thirdperson_C Function /Game/blueprints/thirdperson.SKEL_thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.04.49:802][873]BlueprintLog: New page: Compile thirdperson
+[2018.05.16-00.04.49:816][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9ba3048d0, Size=4
+[2018.05.16-00.04.49:816][873]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9993e5bc8, Size=4, Default__SKEL_thirdperson_C Function /Engine/Transient.REINST_SKEL_thirdperson_C_80:ExecuteUbergraph_thirdperson
+[2018.05.16-00.04.49:830][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9c9abac00, Size=536
+[2018.05.16-00.04.49:830][873]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9be735d00, Size=536, thirdperson_C_1041 Function /Engine/Transient.REINST_thirdperson_C_82:ExecuteUbergraph_thirdperson
+[2018.05.16-00.04.49:837][873]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9c94fae80, Size=536, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.04.50:046][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9993e5bc8, Size=4
+[2018.05.16-00.04.50:695][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/thirdperson" FILE="C:/Users/spenc/Documents/GitHub/FunSouls/Content/blueprints/thirdperson.uasset" SILENT=true
+[2018.05.16-00.04.50:751][898]LogSavePackage: Save=48.21ms
+[2018.05.16-00.04.50:751][898]LogSavePackage: Moving 'C:/Users/spenc/Documents/GitHub/FunSouls/Saved/thirdperson3331EF8944C1A3690F679A8448EFE38E.tmp' to 'C:/Users/spenc/Documents/GitHub/FunSouls/Content/blueprints/thirdperson.uasset'
+[2018.05.16-00.04.50:754][898]LogSavePackage: Display: Finished SavePackage C:/Users/spenc/Documents/GitHub/FunSouls/Content/blueprints/thirdperson.uasset
+[2018.05.16-00.04.51:562][976]LogSlate: Window 'thirdperson' being destroyed
+[2018.05.16-00.04.51:566][976]LogSlate: Window 'thirdperson' being destroyed
+[2018.05.16-00.04.52:649][ 96]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-00.04.52:660][ 96]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.04.52:660][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-00.04.52:660][ 96]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2018, 10:04:52 AM)
+[2018.05.16-00.04.52:660][ 96]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.16-00.04.52:671][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011324s)
+[2018.05.16-00.04.52:672][ 96]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.16-00.04.52:672][ 96]LogPlayLevel: PIE: World Init took: (0.000629s)
+[2018.05.16-00.04.52:672][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012088s)
+[2018.05.16-00.04.52:690][ 96]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-00.04.52:724][ 96]LogInit: FAudioDevice initialized.
+[2018.05.16-00.04.52:752][ 96]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.16-00.04.52:753][ 96]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.15-17.04.52
+[2018.05.16-00.04.52:754][ 96]LogWorld: Bringing up level for play took: 0.001262
+[2018.05.16-00.04.52:755][ 96]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.828
+[2018.05.16-00.04.52:756][ 96]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.04.56:955][554]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.04.56:997][554]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.05.36:042][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.16-00.08.55:215][881]BlueprintLog: New page: Compile thirdperson
+[2018.05.16-00.08.55:244][881]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9c94fae80, Size=536
+[2018.05.16-00.08.55:244][881]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d99a85d300, Size=536, thirdperson_C_1060 Function /Engine/Transient.REINST_thirdperson_C_86:ExecuteUbergraph_thirdperson
+[2018.05.16-00.08.55:250][881]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9a07bd300, Size=536, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.08.56:376][954]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.08.56:382][954]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.08.56:930][ 10]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-00.08.56:941][ 10]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.08.56:941][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-00.08.56:941][ 10]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2018, 10:08:56 AM)
+[2018.05.16-00.08.56:941][ 10]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.16-00.08.56:953][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012043s)
+[2018.05.16-00.08.56:954][ 10]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.16-00.08.56:954][ 10]LogPlayLevel: PIE: World Init took: (0.000738s)
+[2018.05.16-00.08.56:954][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012914s)
+[2018.05.16-00.08.56:968][ 10]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d99a85d300, Size=536
+[2018.05.16-00.08.56:973][ 10]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-00.08.57:008][ 10]LogInit: FAudioDevice initialized.
+[2018.05.16-00.08.57:043][ 10]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.16-00.08.57:044][ 10]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.15-17.08.57
+[2018.05.16-00.08.57:044][ 10]LogWorld: Bringing up level for play took: 0.001302
+[2018.05.16-00.08.57:046][ 10]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.882
+[2018.05.16-00.08.57:046][ 10]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.09.03:521][656]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.09.03:570][656]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.09.04:732][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.16-00.09.40:141][748]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.014
+[2018.05.16-00.09.40:143][748]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/blueprints/thirdperson] ([1] browsable assets)...
+[2018.05.16-00.09.40:159][748]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprints/thirdperson.thirdperson]
+[2018.05.16-00.09.40:159][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/thirdperson]
+[2018.05.16-00.09.40:159][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/thirdperson" FILE="C:/Users/spenc/Documents/GitHub/FunSouls/Saved/Autosaves/Game/blueprints/thirdperson_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.05.16-00.09.40:214][748]LogSavePackage: Save=49.27ms
+[2018.05.16-00.09.40:214][748]LogSavePackage: Moving 'C:/Users/spenc/Documents/GitHub/FunSouls/Saved/thirdperson_Auto29C3125C94FE524200C2156BC8D357F09.tmp' to 'C:/Users/spenc/Documents/GitHub/FunSouls/Saved/Autosaves/Game/blueprints/thirdperson_Auto2.uasset'
+[2018.05.16-00.09.40:216][748]LogSavePackage: Display: Finished SavePackage C:/Users/spenc/Documents/GitHub/FunSouls/Saved/Autosaves/Game/blueprints/thirdperson_Auto2.uasset
+[2018.05.16-00.09.40:216][748]LogFileHelpers: Auto-saving content packages took 0.074
+[2018.05.16-00.11.07:337][501]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9b8dfdff8, Size=4, Default__SKEL_thirdperson_C Function /Game/blueprints/thirdperson.SKEL_thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.11.12:228][922]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9b8dfdff8, Size=4
+[2018.05.16-00.11.12:228][922]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d988765640, Size=4, Default__SKEL_thirdperson_C Function /Engine/Transient.REINST_SKEL_thirdperson_C_90:ExecuteUbergraph_thirdperson
+[2018.05.16-00.11.12:231][922]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d988766d28, Size=4, Default__SKEL_thirdperson_C Function /Game/blueprints/thirdperson.SKEL_thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.11.14:103][ 71]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d988766d28, Size=4
+[2018.05.16-00.11.14:103][ 71]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9993e4bf8, Size=4, Default__SKEL_thirdperson_C Function /Engine/Transient.REINST_SKEL_thirdperson_C_92:ExecuteUbergraph_thirdperson
+[2018.05.16-00.11.14:107][ 71]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9993e53a8, Size=4, Default__SKEL_thirdperson_C Function /Game/blueprints/thirdperson.SKEL_thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.11.15:746][191]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9993e53a8, Size=4
+[2018.05.16-00.11.15:746][191]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d98898f088, Size=4, Default__SKEL_thirdperson_C Function /Engine/Transient.REINST_SKEL_thirdperson_C_94:ExecuteUbergraph_thirdperson
+[2018.05.16-00.11.15:750][191]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d98898e620, Size=4, Default__SKEL_thirdperson_C Function /Game/blueprints/thirdperson.SKEL_thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.11.20:613][580]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d98898e620, Size=4
+[2018.05.16-00.11.20:613][580]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d93f72d1f0, Size=4, Default__SKEL_thirdperson_C Function /Engine/Transient.REINST_SKEL_thirdperson_C_96:ExecuteUbergraph_thirdperson
+[2018.05.16-00.11.20:617][580]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d93f72f490, Size=4, Default__SKEL_thirdperson_C Function /Game/blueprints/thirdperson.SKEL_thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.12.27:578][458]BlueprintLog: New page: Compile thirdperson
+[2018.05.16-00.12.27:593][458]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d93f72f490, Size=4
+[2018.05.16-00.12.27:593][458]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9845a4d10, Size=4, Default__SKEL_thirdperson_C Function /Engine/Transient.REINST_SKEL_thirdperson_C_98:ExecuteUbergraph_thirdperson
+[2018.05.16-00.12.27:608][458]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9a07bd300, Size=536
+[2018.05.16-00.12.27:608][458]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9ab393380, Size=536, thirdperson_C_1123 Function /Engine/Transient.REINST_thirdperson_C_100:ExecuteUbergraph_thirdperson
+[2018.05.16-00.12.27:615][458]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9a0820180, Size=528, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.12.27:829][458]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9845a4d10, Size=4
+[2018.05.16-00.14.42:742][543]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d983a2de80, Size=4, Default__SKEL_thirdperson_C Function /Game/blueprints/thirdperson.SKEL_thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.14.56:973][741]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d983a2de80, Size=4
+[2018.05.16-00.14.56:973][741]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9b8dfc1c8, Size=4, Default__SKEL_thirdperson_C Function /Engine/Transient.REINST_SKEL_thirdperson_C_104:ExecuteUbergraph_thirdperson
+[2018.05.16-00.14.56:977][741]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9b8dfed78, Size=4, Default__SKEL_thirdperson_C Function /Game/blueprints/thirdperson.SKEL_thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.15.00:634][ 34]BlueprintLog: New page: Compile thirdperson
+[2018.05.16-00.15.00:649][ 34]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9b8dfed78, Size=4
+[2018.05.16-00.15.00:649][ 34]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d999c82db8, Size=4, Default__SKEL_thirdperson_C Function /Engine/Transient.REINST_SKEL_thirdperson_C_106:ExecuteUbergraph_thirdperson
+[2018.05.16-00.15.00:665][ 34]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9a0820180, Size=528
+[2018.05.16-00.15.00:665][ 34]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9ab4eae80, Size=528, thirdperson_C_1173 Function /Engine/Transient.REINST_thirdperson_C_108:ExecuteUbergraph_thirdperson
+[2018.05.16-00.15.00:672][ 34]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9b225bd80, Size=528, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.15.00:888][ 34]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d999c82db8, Size=4
+[2018.05.16-00.15.52:174][236]BlueprintLog: New page: Compile thirdperson
+[2018.05.16-00.15.52:207][236]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9b225bd80, Size=528
+[2018.05.16-00.15.52:207][236]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d93d4bcb80, Size=528, thirdperson_C_1207 Function /Engine/Transient.REINST_thirdperson_C_112:ExecuteUbergraph_thirdperson
+[2018.05.16-00.15.52:215][236]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d998f9d300, Size=552, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.15.54:393][370]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.15.54:397][370]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.15.55:121][446]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-00.15.55:132][446]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.15.55:132][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-00.15.55:132][446]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2018, 10:15:55 AM)
+[2018.05.16-00.15.55:132][446]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.16-00.15.55:145][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012794s)
+[2018.05.16-00.15.55:145][446]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.16-00.15.55:146][446]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2018.05.16-00.15.55:146][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013622s)
+[2018.05.16-00.15.55:163][446]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-00.15.55:197][446]LogInit: FAudioDevice initialized.
+[2018.05.16-00.15.55:231][446]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.16-00.15.55:233][446]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.15-17.15.55
+[2018.05.16-00.15.55:233][446]LogWorld: Bringing up level for play took: 0.001360
+[2018.05.16-00.15.55:235][446]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.693
+[2018.05.16-00.15.55:235][446]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.15.59:690][900]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.15.59:735][900]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.16.02:658][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.16-00.17.24:096][368]BlueprintLog: New page: Compile thirdperson
+[2018.05.16-00.17.24:129][368]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d998f9d300, Size=552
+[2018.05.16-00.17.24:129][368]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9d2082980, Size=552, thirdperson_C_1226 Function /Engine/Transient.REINST_thirdperson_C_116:ExecuteUbergraph_thirdperson
+[2018.05.16-00.17.24:137][368]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d93eeff100, Size=536, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.17.25:428][450]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.17.25:432][450]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.17.26:162][528]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-00.17.26:173][528]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.17.26:173][528]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-00.17.26:173][528]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2018, 10:17:26 AM)
+[2018.05.16-00.17.26:173][528]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.16-00.17.26:184][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011326s)
+[2018.05.16-00.17.26:185][528]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.16-00.17.26:185][528]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2018.05.16-00.17.26:185][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012204s)
+[2018.05.16-00.17.26:207][528]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-00.17.26:243][528]LogInit: FAudioDevice initialized.
+[2018.05.16-00.17.26:274][528]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.16-00.17.26:275][528]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.15-17.17.26
+[2018.05.16-00.17.26:275][528]LogWorld: Bringing up level for play took: 0.001293
+[2018.05.16-00.17.26:277][528]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.349
+[2018.05.16-00.17.26:277][528]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.17.37:020][436]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.17.37:080][436]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.17.38:103][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.16-00.18.11:625][817]BlueprintLog: New page: Compile thirdperson
+[2018.05.16-00.18.11:660][817]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d93eeff100, Size=536
+[2018.05.16-00.18.11:660][817]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9ca6d5580, Size=536, thirdperson_C_1245 Function /Engine/Transient.REINST_thirdperson_C_120:ExecuteUbergraph_thirdperson
+[2018.05.16-00.18.11:666][817]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9d07aee80, Size=536, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.18.13:116][891]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.18.13:121][891]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.18.13:846][968]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-00.18.13:857][968]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.18.13:857][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-00.18.13:857][968]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2018, 10:18:13 AM)
+[2018.05.16-00.18.13:857][968]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.16-00.18.13:868][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011353s)
+[2018.05.16-00.18.13:869][968]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.16-00.18.13:869][968]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2018.05.16-00.18.13:869][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012175s)
+[2018.05.16-00.18.13:882][968]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9ca6d5580, Size=536
+[2018.05.16-00.18.13:888][968]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-00.18.13:922][968]LogInit: FAudioDevice initialized.
+[2018.05.16-00.18.13:953][968]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.16-00.18.13:955][968]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.15-17.18.13
+[2018.05.16-00.18.13:955][968]LogWorld: Bringing up level for play took: 0.001331
+[2018.05.16-00.18.13:957][968]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.029
+[2018.05.16-00.18.13:957][968]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.18.23:376][806]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.18.23:432][806]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.18.26:032][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.16-00.20.38:778][444]BlueprintLog: New page: Compile thirdperson
+[2018.05.16-00.20.38:812][444]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9d07aee80, Size=536
+[2018.05.16-00.20.38:812][444]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9b283df80, Size=536, thirdperson_C_1264 Function /Engine/Transient.REINST_thirdperson_C_124:ExecuteUbergraph_thirdperson
+[2018.05.16-00.20.38:819][444]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d92dab6e80, Size=544, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.20.40:028][504]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.20.40:033][504]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.20.41:778][689]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d982711870, Size=4, Default__SKEL_thirdperson_2_C Function /Game/blueprints/thirdperson_2.SKEL_thirdperson_2_C:ExecuteUbergraph_thirdperson_2
+[2018.05.16-00.20.41:781][689]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d982711870, Size=4
+[2018.05.16-00.20.41:781][689]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d982711870, Size=4, Default__SKEL_thirdperson_2_C Function /Engine/Transient.REINST_SKEL_thirdperson_2_C_127:ExecuteUbergraph_thirdperson_2
+[2018.05.16-00.20.41:786][689]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d982710b58, Size=4, Default__SKEL_thirdperson_2_C Function /Game/blueprints/thirdperson_2.SKEL_thirdperson_2_C:ExecuteUbergraph_thirdperson_2
+[2018.05.16-00.20.41:797][689]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9826eb100, Size=544, Default__thirdperson_2_C Function /Game/blueprints/thirdperson_2.thirdperson_2_C:ExecuteUbergraph_thirdperson_2
+[2018.05.16-00.20.41:815][689]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d982710b58, Size=4
+[2018.05.16-00.20.41:815][689]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d982710b58, Size=4, Default__SKEL_thirdperson_2_C Function /Engine/Transient.REINST_SKEL_thirdperson_2_C_130:ExecuteUbergraph_thirdperson_2
+[2018.05.16-00.20.41:832][689]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9826eb100, Size=544
+[2018.05.16-00.20.41:832][689]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9826eb100, Size=544, Default__thirdperson_2_C Function /Engine/Transient.REINST_thirdperson_2_C_132:ExecuteUbergraph_thirdperson_2
+[2018.05.16-00.20.41:842][689]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9937d7380, Size=544, Default__thirdperson_2_C Function /Game/blueprints/thirdperson_2.thirdperson_2_C:ExecuteUbergraph_thirdperson_2
+[2018.05.16-00.20.47:707][ 62]LogSlate: Window 'thirdperson_2*' being destroyed
+[2018.05.16-00.20.47:711][ 62]LogSlate: Window 'thirdperson_2*' being destroyed
+[2018.05.16-00.20.50:770][400]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9826eb100, Size=544
+[2018.05.16-00.20.50:770][400]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d982710b58, Size=4
+[2018.05.16-00.20.50:771][400]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d982711870, Size=4
+[2018.05.16-00.20.50:771][400]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9b283df80, Size=536
+[2018.05.16-00.20.52:672][400]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.16-00.20.52:703][400]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9937d7380, Size=544
+[2018.05.16-00.20.52:703][400]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d98975a480, Size=544, Default__thirdperson_2_C Function /Engine/Transient.REINST_thirdperson_2_C_134:ExecuteUbergraph_thirdperson_2
+[2018.05.16-00.20.53:596][400]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d98975a480, Size=544
+[2018.05.16-00.21.17:225][539]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.014
+[2018.05.16-00.21.17:226][539]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/blueprints/thirdperson] ([1] browsable assets)...
+[2018.05.16-00.21.17:247][539]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprints/thirdperson.thirdperson]
+[2018.05.16-00.21.17:247][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/thirdperson]
+[2018.05.16-00.21.17:247][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/thirdperson" FILE="C:/Users/spenc/Documents/GitHub/FunSouls/Saved/Autosaves/Game/blueprints/thirdperson_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.05.16-00.21.17:311][539]LogSavePackage: Save=56.52ms
+[2018.05.16-00.21.17:312][539]LogSavePackage: Moving 'C:/Users/spenc/Documents/GitHub/FunSouls/Saved/thirdperson_Auto3E1D062BE47E834F5C513FCAC225A1EBE.tmp' to 'C:/Users/spenc/Documents/GitHub/FunSouls/Saved/Autosaves/Game/blueprints/thirdperson_Auto3.uasset'
+[2018.05.16-00.21.17:314][539]LogSavePackage: Display: Finished SavePackage C:/Users/spenc/Documents/GitHub/FunSouls/Saved/Autosaves/Game/blueprints/thirdperson_Auto3.uasset
+[2018.05.16-00.21.17:314][539]LogFileHelpers: Auto-saving content packages took 0.088
+[2018.05.16-00.22.43:636][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.16-00.31.58:646][669]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.017
+[2018.05.16-00.31.58:647][669]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/blueprints/thirdperson] ([1] browsable assets)...
+[2018.05.16-00.31.58:657][669]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprints/thirdperson.thirdperson]
+[2018.05.16-00.31.58:657][669]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/thirdperson]
+[2018.05.16-00.31.58:657][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/thirdperson" FILE="C:/Users/spenc/Documents/GitHub/FunSouls/Saved/Autosaves/Game/blueprints/thirdperson_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.05.16-00.31.58:724][669]LogSavePackage: Save=57.96ms
+[2018.05.16-00.31.58:724][669]LogSavePackage: Moving 'C:/Users/spenc/Documents/GitHub/FunSouls/Saved/thirdperson_Auto45568DF0E413EE06344A3DAB9382699F8.tmp' to 'C:/Users/spenc/Documents/GitHub/FunSouls/Saved/Autosaves/Game/blueprints/thirdperson_Auto4.uasset'
+[2018.05.16-00.31.58:726][669]LogSavePackage: Display: Finished SavePackage C:/Users/spenc/Documents/GitHub/FunSouls/Saved/Autosaves/Game/blueprints/thirdperson_Auto4.uasset
+[2018.05.16-00.31.58:726][669]LogFileHelpers: Auto-saving content packages took 0.079
+[2018.05.16-00.40.21:500][ 93]BlueprintLog: New page: Compile thirdperson
+[2018.05.16-00.40.21:533][ 93]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d92dab6e80, Size=544
+[2018.05.16-00.40.21:533][ 93]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9f8bcf600, Size=544, thirdperson_C_1283 Function /Engine/Transient.REINST_thirdperson_C_138:ExecuteUbergraph_thirdperson
+[2018.05.16-00.40.21:541][ 93]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9188d9580, Size=544, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.40.23:138][202]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.40.23:143][202]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.40.23:803][271]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-00.40.23:814][271]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.40.23:814][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-00.40.23:814][271]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2018, 10:40:23 AM)
+[2018.05.16-00.40.23:814][271]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.16-00.40.23:826][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012151s)
+[2018.05.16-00.40.23:827][271]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.16-00.40.23:827][271]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2018.05.16-00.40.23:827][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013021s)
+[2018.05.16-00.40.23:842][271]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9f8bcf600, Size=544
+[2018.05.16-00.40.23:848][271]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-00.40.23:884][271]LogInit: FAudioDevice initialized.
+[2018.05.16-00.40.23:918][271]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.16-00.40.23:920][271]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.15-17.40.23
+[2018.05.16-00.40.23:920][271]LogWorld: Bringing up level for play took: 0.001335
+[2018.05.16-00.40.23:922][271]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.006
+[2018.05.16-00.40.23:922][271]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.40.31:504][969]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.40.31:564][969]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.40.32:847][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.16-00.40.44:263][823]BlueprintLog: New page: Compile thirdperson
+[2018.05.16-00.40.44:296][823]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9188d9580, Size=544
+[2018.05.16-00.40.44:296][823]LogUObjectGlobals: Created PersistentFrame Addr=0x000001da01504e00, Size=544, thirdperson_C_1302 Function /Engine/Transient.REINST_thirdperson_C_142:ExecuteUbergraph_thirdperson
+[2018.05.16-00.40.44:303][823]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9f327dd00, Size=536, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.40.46:819][968]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.40.46:823][968]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.40.47:786][ 69]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-00.40.47:797][ 69]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.40.47:797][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-00.40.47:797][ 69]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2018, 10:40:47 AM)
+[2018.05.16-00.40.47:797][ 69]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.16-00.40.47:809][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011480s)
+[2018.05.16-00.40.47:809][ 69]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.16-00.40.47:810][ 69]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2018.05.16-00.40.47:810][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012268s)
+[2018.05.16-00.40.47:823][ 69]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001da01504e00, Size=544
+[2018.05.16-00.40.47:828][ 69]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-00.40.47:862][ 69]LogInit: FAudioDevice initialized.
+[2018.05.16-00.40.47:894][ 69]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.16-00.40.47:895][ 69]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.15-17.40.47
+[2018.05.16-00.40.47:896][ 69]LogWorld: Bringing up level for play took: 0.001298
+[2018.05.16-00.40.47:897][ 69]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.031
+[2018.05.16-00.40.47:897][ 69]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.40.53:305][619]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.40.53:358][619]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.40.54:671][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.16-00.42.31:785][546]BlueprintLog: New page: Compile thirdperson
+[2018.05.16-00.42.31:820][546]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9f327dd00, Size=536
+[2018.05.16-00.42.31:820][546]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9007e7600, Size=536, thirdperson_C_1321 Function /Engine/Transient.REINST_thirdperson_C_146:ExecuteUbergraph_thirdperson
+[2018.05.16-00.42.31:827][546]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9f0017b00, Size=560, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.42.33:949][677]BlueprintLog: New page: Compile thirdperson
+[2018.05.16-00.42.33:984][677]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9f0017b00, Size=560
+[2018.05.16-00.42.33:984][677]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d90c3ddd00, Size=560, thirdperson_C_1339 Function /Engine/Transient.REINST_thirdperson_C_150:ExecuteUbergraph_thirdperson
+[2018.05.16-00.42.33:991][677]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9f35a5580, Size=560, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.42.34:923][729]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.42.34:928][729]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.42.35:926][838]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-00.42.35:937][838]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.42.35:937][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-00.42.35:937][838]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2018, 10:42:35 AM)
+[2018.05.16-00.42.35:937][838]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.16-00.42.35:949][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011672s)
+[2018.05.16-00.42.35:950][838]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.16-00.42.35:950][838]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2018.05.16-00.42.35:950][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012451s)
+[2018.05.16-00.42.35:964][838]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d90c3ddd00, Size=560
+[2018.05.16-00.42.35:964][838]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9007e7600, Size=536
+[2018.05.16-00.42.35:970][838]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-00.42.36:005][838]LogInit: FAudioDevice initialized.
+[2018.05.16-00.42.36:037][838]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.16-00.42.36:039][838]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.15-17.42.36
+[2018.05.16-00.42.36:039][838]LogWorld: Bringing up level for play took: 0.001262
+[2018.05.16-00.42.36:040][838]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.113
+[2018.05.16-00.42.36:041][838]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.42.53:461][120]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.42.53:545][120]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.42.54:631][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.16-00.43.55:169][352]BlueprintLog: New page: Compile thirdperson
+[2018.05.16-00.43.55:202][352]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9f35a5580, Size=560
+[2018.05.16-00.43.55:202][352]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9d0b9e480, Size=560, thirdperson_C_1358 Function /Engine/Transient.REINST_thirdperson_C_154:ExecuteUbergraph_thirdperson
+[2018.05.16-00.43.55:210][352]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9d0ef5080, Size=536, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.43.56:616][454]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.43.56:620][454]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.43.57:478][547]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-00.43.57:489][547]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.43.57:490][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-00.43.57:490][547]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2018, 10:43:57 AM)
+[2018.05.16-00.43.57:490][547]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.16-00.43.57:502][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012022s)
+[2018.05.16-00.43.57:502][547]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.16-00.43.57:503][547]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2018.05.16-00.43.57:503][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012858s)
+[2018.05.16-00.43.57:515][547]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9d0b9e480, Size=560
+[2018.05.16-00.43.57:521][547]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-00.43.57:555][547]LogInit: FAudioDevice initialized.
+[2018.05.16-00.43.57:586][547]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.16-00.43.57:588][547]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.15-17.43.57
+[2018.05.16-00.43.57:588][547]LogWorld: Bringing up level for play took: 0.001347
+[2018.05.16-00.43.57:590][547]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.338
+[2018.05.16-00.43.57:590][547]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.44.00:655][895]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.44.00:704][895]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.44.01:575][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.16-00.44.18:242][319]BlueprintLog: New page: Compile thirdperson
+[2018.05.16-00.44.18:275][319]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9d0ef5080, Size=536
+[2018.05.16-00.44.18:275][319]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9bbaf4680, Size=536, thirdperson_C_1409 Function /Engine/Transient.REINST_thirdperson_C_158:ExecuteUbergraph_thirdperson
+[2018.05.16-00.44.18:283][319]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9829d3100, Size=536, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.44.20:400][484]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.44.20:404][484]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.44.21:898][623]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-00.44.21:909][623]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.44.21:909][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-00.44.21:909][623]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2018, 10:44:21 AM)
+[2018.05.16-00.44.21:909][623]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.16-00.44.21:921][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011502s)
+[2018.05.16-00.44.21:922][623]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.16-00.44.21:922][623]LogPlayLevel: PIE: World Init took: (0.001106s)
+[2018.05.16-00.44.21:922][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012746s)
+[2018.05.16-00.44.21:939][623]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-00.44.21:974][623]LogInit: FAudioDevice initialized.
+[2018.05.16-00.44.22:003][623]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.16-00.44.22:004][623]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.15-17.44.22
+[2018.05.16-00.44.22:005][623]LogWorld: Bringing up level for play took: 0.001267
+[2018.05.16-00.44.22:006][623]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.078
+[2018.05.16-00.44.22:007][623]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.44.25:467][ 10]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.44.25:515][ 10]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.44.26:306][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.16-00.44.46:994][665]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.44.46:998][665]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.44.47:804][751]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-00.44.47:815][751]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.44.47:815][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-00.44.47:815][751]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2018, 10:44:47 AM)
+[2018.05.16-00.44.47:815][751]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.16-00.44.47:827][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011415s)
+[2018.05.16-00.44.47:827][751]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.16-00.44.47:827][751]LogPlayLevel: PIE: World Init took: (0.000640s)
+[2018.05.16-00.44.47:827][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012184s)
+[2018.05.16-00.44.47:846][751]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-00.44.47:881][751]LogInit: FAudioDevice initialized.
+[2018.05.16-00.44.47:909][751]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.16-00.44.47:910][751]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.15-17.44.47
+[2018.05.16-00.44.47:911][751]LogWorld: Bringing up level for play took: 0.001285
+[2018.05.16-00.44.47:912][751]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.015
+[2018.05.16-00.44.47:913][751]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.44.50:903][ 90]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.44.50:949][ 90]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.46.51:727][764]BlueprintLog: New page: Compile thirdperson
+[2018.05.16-00.46.51:761][764]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9829d3100, Size=536
+[2018.05.16-00.46.51:761][764]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9ef3ef600, Size=536, thirdperson_C_1429 Function /Engine/Transient.REINST_thirdperson_C_162:ExecuteUbergraph_thirdperson
+[2018.05.16-00.46.51:768][764]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9d0e99f80, Size=544, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.46.53:063][851]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.46.53:068][851]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.46.53:913][942]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-00.46.53:924][942]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.46.53:924][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-00.46.53:924][942]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2018, 10:46:53 AM)
+[2018.05.16-00.46.53:924][942]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.16-00.46.53:936][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011635s)
+[2018.05.16-00.46.53:936][942]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.16-00.46.53:936][942]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2018.05.16-00.46.53:936][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012435s)
+[2018.05.16-00.46.53:954][942]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-00.46.53:991][942]LogInit: FAudioDevice initialized.
+[2018.05.16-00.46.54:025][942]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.16-00.46.54:026][942]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.15-17.46.54
+[2018.05.16-00.46.54:027][942]LogWorld: Bringing up level for play took: 0.001305
+[2018.05.16-00.46.54:028][942]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.101
+[2018.05.16-00.46.54:028][942]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.46.57:732][348]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.46.57:779][348]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.46.58:773][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.16-00.47.29:937][691]BlueprintLog: New page: Compile thirdperson
+[2018.05.16-00.47.29:970][691]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9d0e99f80, Size=544
+[2018.05.16-00.47.29:970][691]LogUObjectGlobals: Created PersistentFrame Addr=0x000001da066bdd00, Size=544, thirdperson_C_1448 Function /Engine/Transient.REINST_thirdperson_C_166:ExecuteUbergraph_thirdperson
+[2018.05.16-00.47.29:978][691]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d97b91b880, Size=544, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.47.31:263][757]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.47.31:267][757]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.47.31:903][822]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-00.47.31:914][822]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.47.31:914][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-00.47.31:914][822]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2018, 10:47:31 AM)
+[2018.05.16-00.47.31:914][822]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.16-00.47.31:925][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011359s)
+[2018.05.16-00.47.31:926][822]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.16-00.47.31:926][822]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2018.05.16-00.47.31:926][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012151s)
+[2018.05.16-00.47.31:940][822]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001da066bdd00, Size=544
+[2018.05.16-00.47.31:946][822]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-00.47.31:980][822]LogInit: FAudioDevice initialized.
+[2018.05.16-00.47.32:015][822]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.16-00.47.32:017][822]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.15-17.47.32
+[2018.05.16-00.47.32:017][822]LogWorld: Bringing up level for play took: 0.001283
+[2018.05.16-00.47.32:019][822]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.091
+[2018.05.16-00.47.32:019][822]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.47.43:112][763]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.47.43:185][763]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.47.44:228][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.16-00.50.17:457][328]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.015
+[2018.05.16-00.50.17:459][328]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/blueprints/thirdperson] ([1] browsable assets)...
+[2018.05.16-00.50.17:468][328]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprints/thirdperson.thirdperson]
+[2018.05.16-00.50.17:468][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/thirdperson]
+[2018.05.16-00.50.17:468][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/thirdperson" FILE="C:/Users/spenc/Documents/GitHub/FunSouls/Saved/Autosaves/Game/blueprints/thirdperson_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2018.05.16-00.50.17:528][328]LogSavePackage: Save=52.94ms
+[2018.05.16-00.50.17:528][328]LogSavePackage: Moving 'C:/Users/spenc/Documents/GitHub/FunSouls/Saved/thirdperson_Auto50A1318C347B1BB676C694DB9670F1518.tmp' to 'C:/Users/spenc/Documents/GitHub/FunSouls/Saved/Autosaves/Game/blueprints/thirdperson_Auto5.uasset'
+[2018.05.16-00.50.17:530][328]LogSavePackage: Display: Finished SavePackage C:/Users/spenc/Documents/GitHub/FunSouls/Saved/Autosaves/Game/blueprints/thirdperson_Auto5.uasset
+[2018.05.16-00.50.17:530][328]LogFileHelpers: Auto-saving content packages took 0.072
+[2018.05.16-00.50.48:365][  1]LogEditorTransaction: Undo Delete current selection
+[2018.05.16-00.50.48:369][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9f8face30, Size=4, Default__SKEL_thirdperson_C Function /Game/blueprints/thirdperson.SKEL_thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.50.48:668][ 17]LogEditorTransaction: Undo Move Node
+[2018.05.16-00.50.48:668][ 17]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9f8face30, Size=4
+[2018.05.16-00.50.48:668][ 17]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9ee1bb4b0, Size=4, Default__SKEL_thirdperson_C Function /Engine/Transient.REINST_SKEL_thirdperson_C_170:ExecuteUbergraph_thirdperson
+[2018.05.16-00.50.48:672][ 17]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9ee1bb9f0, Size=4, Default__SKEL_thirdperson_C Function /Game/blueprints/thirdperson.SKEL_thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.50.49:188][ 56]LogEditorTransaction: Undo Add Node
+[2018.05.16-00.50.49:189][ 56]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9ee1bb9f0, Size=4
+[2018.05.16-00.50.49:189][ 56]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9f8fac9e8, Size=4, Default__SKEL_thirdperson_C Function /Engine/Transient.REINST_SKEL_thirdperson_C_172:ExecuteUbergraph_thirdperson
+[2018.05.16-00.50.49:192][ 56]LogUObjectGlobals: Created PersistentFrame Addr=0x000001da03517ff8, Size=4, Default__SKEL_thirdperson_C Function /Game/blueprints/thirdperson.SKEL_thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.50.49:589][ 86]LogEditorTransaction: Undo Move Node
+[2018.05.16-00.50.49:590][ 86]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001da03517ff8, Size=4
+[2018.05.16-00.50.49:590][ 86]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9f8fad8f0, Size=4, Default__SKEL_thirdperson_C Function /Engine/Transient.REINST_SKEL_thirdperson_C_174:ExecuteUbergraph_thirdperson
+[2018.05.16-00.50.49:593][ 86]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9f8faedc8, Size=4, Default__SKEL_thirdperson_C Function /Game/blueprints/thirdperson.SKEL_thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.50.50:092][126]LogEditorTransaction: Undo Add Component Nodes
+[2018.05.16-00.50.50:093][126]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9f8faedc8, Size=4
+[2018.05.16-00.50.50:093][126]LogUObjectGlobals: Created PersistentFrame Addr=0x000001da03516690, Size=4, Default__SKEL_thirdperson_C Function /Engine/Transient.REINST_SKEL_thirdperson_C_176:ExecuteUbergraph_thirdperson
+[2018.05.16-00.50.50:097][126]LogUObjectGlobals: Created PersistentFrame Addr=0x000001da035168e0, Size=4, Default__SKEL_thirdperson_C Function /Game/blueprints/thirdperson.SKEL_thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.50.50:565][163]LogEditorTransaction: Undo Delete current selection
+[2018.05.16-00.50.50:566][163]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001da035168e0, Size=4
+[2018.05.16-00.50.50:566][163]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d983a2c848, Size=4, Default__SKEL_thirdperson_C Function /Engine/Transient.REINST_SKEL_thirdperson_C_178:ExecuteUbergraph_thirdperson
+[2018.05.16-00.50.50:570][163]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d983a2d610, Size=4, Default__SKEL_thirdperson_C Function /Game/blueprints/thirdperson.SKEL_thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.52.06:801][371]BlueprintLog: New page: Compile thirdperson
+[2018.05.16-00.52.06:816][371]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d983a2d610, Size=4
+[2018.05.16-00.52.06:816][371]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9ee1b9f58, Size=4, Default__SKEL_thirdperson_C Function /Engine/Transient.REINST_SKEL_thirdperson_C_180:ExecuteUbergraph_thirdperson
+[2018.05.16-00.52.06:833][371]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d97b91b880, Size=544
+[2018.05.16-00.52.06:833][371]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d984f3c400, Size=544, thirdperson_C_1547 Function /Engine/Transient.REINST_thirdperson_C_182:ExecuteUbergraph_thirdperson
+[2018.05.16-00.52.06:840][371]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d940fad580, Size=536, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.52.07:072][371]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9ee1b9f58, Size=4
+[2018.05.16-00.52.07:072][371]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d983a2c848, Size=4
+[2018.05.16-00.52.07:072][371]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001da03516690, Size=4
+[2018.05.16-00.52.07:072][371]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9f8fad8f0, Size=4
+[2018.05.16-00.52.07:072][371]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9f8fac9e8, Size=4
+[2018.05.16-00.52.07:072][371]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9ee1bb4b0, Size=4
+[2018.05.16-00.52.08:905][523]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.52.08:910][523]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.52.09:614][596]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-00.52.09:624][596]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.52.09:625][596]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-00.52.09:625][596]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2018, 10:52:09 AM)
+[2018.05.16-00.52.09:625][596]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.16-00.52.09:637][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012228s)
+[2018.05.16-00.52.09:638][596]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.16-00.52.09:638][596]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2018.05.16-00.52.09:638][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013097s)
+[2018.05.16-00.52.09:656][596]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-00.52.09:692][596]LogInit: FAudioDevice initialized.
+[2018.05.16-00.52.09:726][596]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.16-00.52.09:728][596]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.15-17.52.09
+[2018.05.16-00.52.09:728][596]LogWorld: Bringing up level for play took: 0.001328
+[2018.05.16-00.52.09:730][596]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.198
+[2018.05.16-00.52.09:730][596]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.52.14:032][ 47]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.52.14:085][ 47]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.52.16:355][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.16-00.53.09:898][327]BlueprintLog: New page: Compile thirdperson
+[2018.05.16-00.53.09:930][327]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d940fad580, Size=536
+[2018.05.16-00.53.09:930][327]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9f327df80, Size=536, thirdperson_C_1566 Function /Engine/Transient.REINST_thirdperson_C_186:ExecuteUbergraph_thirdperson
+[2018.05.16-00.53.09:937][327]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9829d2200, Size=536, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.53.11:122][403]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.53.11:126][403]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.53.11:972][489]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-00.53.11:984][489]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.53.11:984][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-00.53.11:984][489]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2018, 10:53:11 AM)
+[2018.05.16-00.53.11:984][489]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.16-00.53.11:996][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011433s)
+[2018.05.16-00.53.11:996][489]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.16-00.53.11:996][489]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2018.05.16-00.53.11:996][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012288s)
+[2018.05.16-00.53.12:015][489]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-00.53.12:050][489]LogInit: FAudioDevice initialized.
+[2018.05.16-00.53.12:083][489]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.16-00.53.12:085][489]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.15-17.53.12
+[2018.05.16-00.53.12:085][489]LogWorld: Bringing up level for play took: 0.001296
+[2018.05.16-00.53.12:086][489]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.159
+[2018.05.16-00.53.12:087][489]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.53.16:092][897]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.53.16:141][897]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.53.17:049][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.16-00.53.24:417][539]BlueprintLog: New page: Compile thirdperson
+[2018.05.16-00.53.24:449][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9829d2200, Size=536
+[2018.05.16-00.53.24:449][539]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9ab4e8680, Size=536, thirdperson_C_1585 Function /Engine/Transient.REINST_thirdperson_C_190:ExecuteUbergraph_thirdperson
+[2018.05.16-00.53.24:456][539]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d941328e00, Size=536, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.53.27:237][786]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-00.53.27:252][786]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.53.27:252][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-00.53.27:252][786]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2018, 10:53:27 AM)
+[2018.05.16-00.53.27:253][786]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.16-00.53.27:264][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011650s)
+[2018.05.16-00.53.27:265][786]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.16-00.53.27:265][786]LogPlayLevel: PIE: World Init took: (0.000687s)
+[2018.05.16-00.53.27:265][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012463s)
+[2018.05.16-00.53.27:285][786]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-00.53.27:319][786]LogInit: FAudioDevice initialized.
+[2018.05.16-00.53.27:349][786]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.16-00.53.27:350][786]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.15-17.53.27
+[2018.05.16-00.53.27:351][786]LogWorld: Bringing up level for play took: 0.001327
+[2018.05.16-00.53.27:352][786]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.575
+[2018.05.16-00.53.27:353][786]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.53.29:571][994]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.53.29:614][994]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.53.37:495][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.16-00.54.55:403][450]BlueprintLog: New page: Compile thirdperson
+[2018.05.16-00.54.55:435][450]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d941328e00, Size=536
+[2018.05.16-00.54.55:435][450]LogUObjectGlobals: Created PersistentFrame Addr=0x000001da0d8c1f80, Size=536, thirdperson_C_1603 Function /Engine/Transient.REINST_thirdperson_C_194:ExecuteUbergraph_thirdperson
+[2018.05.16-00.54.55:442][450]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9d3c82c00, Size=536, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.54.56:723][538]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.54.56:727][538]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.54.57:426][611]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-00.54.57:437][611]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.54.57:437][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-00.54.57:437][611]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2018, 10:54:57 AM)
+[2018.05.16-00.54.57:437][611]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.16-00.54.57:450][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012130s)
+[2018.05.16-00.54.57:450][611]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.16-00.54.57:450][611]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2018.05.16-00.54.57:450][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012999s)
+[2018.05.16-00.54.57:462][611]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001da0d8c1f80, Size=536
+[2018.05.16-00.54.57:463][611]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9ab4e8680, Size=536
+[2018.05.16-00.54.57:468][611]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-00.54.57:502][611]LogInit: FAudioDevice initialized.
+[2018.05.16-00.54.57:533][611]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.16-00.54.57:534][611]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.15-17.54.57
+[2018.05.16-00.54.57:535][611]LogWorld: Bringing up level for play took: 0.001348
+[2018.05.16-00.54.57:536][611]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.392
+[2018.05.16-00.54.57:537][611]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.55.07:356][469]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.55.07:432][469]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.55.08:394][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.16-00.55.32:180][489]BlueprintLog: New page: Compile thirdperson
+[2018.05.16-00.55.32:213][489]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9d3c82c00, Size=536
+[2018.05.16-00.55.32:213][489]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d9d0e98180, Size=536, thirdperson_C_1622 Function /Engine/Transient.REINST_thirdperson_C_198:ExecuteUbergraph_thirdperson
+[2018.05.16-00.55.32:220][489]LogUObjectGlobals: Created PersistentFrame Addr=0x000001da026ee980, Size=536, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.55.33:465][560]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.55.33:469][560]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.55.34:466][669]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-00.55.34:477][669]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.55.34:477][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-00.55.34:477][669]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2018, 10:55:34 AM)
+[2018.05.16-00.55.34:477][669]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.16-00.55.34:489][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011447s)
+[2018.05.16-00.55.34:489][669]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.16-00.55.34:489][669]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2018.05.16-00.55.34:490][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012230s)
+[2018.05.16-00.55.34:501][669]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d9d0e98180, Size=536
+[2018.05.16-00.55.34:507][669]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-00.55.34:541][669]LogInit: FAudioDevice initialized.
+[2018.05.16-00.55.34:571][669]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.16-00.55.34:572][669]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.15-17.55.34
+[2018.05.16-00.55.34:572][669]LogWorld: Bringing up level for play took: 0.001293
+[2018.05.16-00.55.34:574][669]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.646
+[2018.05.16-00.55.34:574][669]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.55.46:628][659]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.55.46:705][659]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.55.47:573][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.16-00.56.26:464][805]BlueprintLog: New page: Compile thirdperson
+[2018.05.16-00.56.26:497][805]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001da026ee980, Size=536
+[2018.05.16-00.56.26:497][805]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d97b020b80, Size=536, thirdperson_C_1641 Function /Engine/Transient.REINST_thirdperson_C_202:ExecuteUbergraph_thirdperson
+[2018.05.16-00.56.26:504][805]LogUObjectGlobals: Created PersistentFrame Addr=0x000001da0f8e3380, Size=536, Default__thirdperson_C Function /Game/blueprints/thirdperson.thirdperson_C:ExecuteUbergraph_thirdperson
+[2018.05.16-00.56.27:603][875]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.56.27:607][875]LogSlate: Window 'thirdperson*' being destroyed
+[2018.05.16-00.56.28:431][963]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-00.56.28:442][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.56.28:442][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-00.56.28:443][963]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2018, 10:56:28 AM)
+[2018.05.16-00.56.28:443][963]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.16-00.56.28:455][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011505s)
+[2018.05.16-00.56.28:455][963]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.16-00.56.28:455][963]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2018.05.16-00.56.28:455][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012280s)
+[2018.05.16-00.56.28:468][963]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d97b020b80, Size=536
+[2018.05.16-00.56.28:474][963]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-00.56.28:508][963]LogInit: FAudioDevice initialized.
+[2018.05.16-00.56.28:540][963]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.16-00.56.28:541][963]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.15-17.56.28
+[2018.05.16-00.56.28:541][963]LogWorld: Bringing up level for play took: 0.001262
+[2018.05.16-00.56.28:543][963]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.615
+[2018.05.16-00.56.28:543][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.16-00.56.30:365][117]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.516 s
+[2018.05.16-00.56.30:365][117]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.16-00.56.30:365][117]LogOutputDevice: Error: 
+[2018.05.16-00.56.30:365][117]LogOutputDevice: Error: Ensure condition failed: Y != 0 [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Core\Private\GenericPlatform\GenericPlatformMath.cpp] [Line: 81]
+[2018.05.16-00.56.30:365][117]LogOutputDevice: Error: FMath::FMod(X=4587002914769677058048.000000, Y=0.000000) : Y is zero, this is invalid and would result in NaN!
+[2018.05.16-00.56.30:365][117]LogOutputDevice: Error: Stack: 
+[2018.05.16-00.56.30:365][117]LogOutputDevice: Error: [Callstack] 0x0000000074AEB706 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.16-00.56.30:365][117]LogOutputDevice: Error: [Callstack] 0x000000007484AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.16-00.56.30:365][117]LogOutputDevice: Error: [Callstack] 0x000000007485ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.16-00.56.30:365][117]LogOutputDevice: Error: [Callstack] 0x0000000074708555 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.16-00.56.30:365][117]LogOutputDevice: Error: [Callstack] 0x000000006E17EC78 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.05.16-00.56.30:365][117]LogOutputDevice: Error: [Callstack] 0x000000006E0C1314 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.05.16-00.56.30:365][117]LogOutputDevice: Error: [Callstack] 0x000000006E0A20CB UE4Editor-Renderer.dll!UnknownFunction []
+[2018.05.16-00.56.30:365][117]LogOutputDevice: Error: [Callstack] 0x000000006E0A2C28 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.05.16-00.56.30:365][117]LogOutputDevice: Error: [Callstack] 0x000000006DAF726A UE4Editor-Renderer.dll!UnknownFunction []
+[2018.05.16-00.56.30:365][117]LogOutputDevice: Error: [Callstack] 0x000000006E0B5F31 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.05.16-00.56.30:365][117]LogOutputDevice: Error: [Callstack] 0x000000006E099E04 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.05.16-00.56.30:365][117]LogOutputDevice: Error: [Callstack] 0x000000007471B713 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.16-00.56.30:365][117]LogOutputDevice: Error: [Callstack] 0x000000007471BD3A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.16-00.56.30:365][117]LogOutputDevice: Error: [Callstack] 0x0000000092FD3CC9 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.05.16-00.56.30:365][117]LogOutputDevice: Error: [Callstack] 0x0000000092FD4CF6 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.05.16-00.56.30:365][117]LogOutputDevice: Error: [Callstack] 0x0000000074AE9FFC UE4Editor-Core.dll!UnknownFunction []
+[2018.05.16-00.56.30:365][117]LogOutputDevice: Error: [Callstack] 0x0000000074ADED63 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.16-00.56.30:365][117]LogOutputDevice: Error: [Callstack] 0x00000000CF011FE4 KERNEL32.DLL!UnknownFunction []
+[2018.05.16-00.56.30:365][117]LogOutputDevice: Error: [Callstack] 0x00000000CFBFF061 ntdll.dll!UnknownFunction []
+[2018.05.16-00.56.30:366][117]LogOutputDevice: Error: 
+[2018.05.16-00.56.30:366][117]LogStats:                SubmitErrorReport -  0.000 s
